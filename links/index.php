@@ -16,13 +16,14 @@
             <h1>Links</h1>
             
             <div class="alert alert-warning" role="alert">
-              This page provides a list of links to other websites, online resources, and useful material.<br><br>Please note that organisations linked below are not affiliated with the OCRS, and we are not responsible for any content hosted elsewhere.
+              This page provides a list of links to other websites, online resources, and useful material.<br><br>Please note that organisations linked below are not affiliated with the OCRS, and we are not responsible for any content hosted elsewhere.<br><br>Can't find what you're looking for? Want to share your website, project, or podcast? <a href="/contact/">Tell us!</a>
             </div>
 
             <h2>Organisations</h2>
             <ul>
               <li><a target="_BLANK" href="http://www.adrsa.org/">African and Diasporic Religious Studies Association</a></li>
               <li><a target="_BLANK" href="https://www.aarweb.org/">American Academy of Religion (AAR)</a></li>
+              <li><a target="_BLANK" href="http://bcsr.berkeley.edu/">Berkeley Center for the Study of Religion (BCSR)</a></li>
               <li><a target="_BLANK" href="https://basr.ac.uk/">British Association for the Study of Religions (BASR)</a></li>
               <li><a target="_BLANK" href="http://sites.cardiff.ac.uk/islamukcentre/">Centre for the Study of Islam in the UK</a></li>
               <li><a target="_BLANK" href="https://cswr.hds.harvard.edu/">Center for the Study of World Religions</a></li>
@@ -54,6 +55,7 @@
             <h2>Journals and Magazines</h2>
             <ul>
             <li>BJRE</li>
+            <li><a target="_BLANK" href="https://www.tandfonline.com/toc/rcar20/current">Culture and Religion</a></li>
             <li>JOCBS</li>
             <li><a target="_BLANK" href="http://www.onreligion.co.uk/">On Religion</a></li>
             <li><a target="_BLANK" href="https://www.religionandgender.org/">Religion and Gender</a></li>
@@ -69,49 +71,20 @@
 
             <h2>Podcasts</h2>
             <ul>
-            <li><a href="http://religionbites.xyz/">Religion Bites</a></li>
-            <li><a href="https://www.theosthinktank.co.uk/comment/podcasts-recordings">Theos: The Sacred</a></li>
-            <li><a href="https://religiousstudiesproject.com/">The Religious Studies Project</a></li>
-            <li><a href="https://woolfpods.wordpress.com/">Woolf Institute Podcasts</a></li>
+            <li><a target="_BLANK" href="https://itunes.apple.com/us/podcast/new-testament-review/id1377442882">New Testament Review</a></li>
+            <li><a target="_BLANK" href="http://podacre.blogspot.com/">NT Pod</a></li>
+            <li><a target="_BLANK" href="http://religionbites.xyz/">Religion Bites</a></li>
+            <li><a target="_BLANK" href="https://www.theosthinktank.co.uk/comment/podcasts-recordings">Theos: The Sacred</a></li>
+            <li><a target="_BLANK" href="https://religiousstudiesproject.com/">The Religious Studies Project</a></li>
+            <li><a target="_BLANK" href="https://woolfpods.wordpress.com/">Woolf Institute Podcasts</a></li>
             </ul>
 
             <h2>Online Courses</h2>
-            <div class="row mb-2">
-              <div class="col-sm-4 mt-2">
-                <div class="card">
-                  <img class="card-img-top" style="max-height: 200px; object-fit: cover" src="https://www.ocbs-courses.org/wp-content/uploads/2018/06/buddha-pali01-1-e1530222355282-300x300.jpg" alt="Card image cap">
-                  <div class="card-body" style="height: 250px; overflow: hidden">
-                    <h5 class="card-title">OCBS: Pail Level 1</h5>
-                    <p class="card-text">Start to learn Pali with this Beginner course that covers all the basics!</p>
-                  </div>
-                  <a href="#" class="btn" style="color: #FFFFFF; background-color: #921515">Find out more &raquo;</a>
-                </div>
-              </div>
-              <div class="col-sm-4 mt-2">
-                <div class="card">
-                  <img class="card-img-top" style="max-height: 200px; object-fit: cover" src="https://www.ishallwin.com/Content/ScholarshipImages/scholarship_logo_1x.png" alt="Card image cap">
-                  <div class="card-body" style="height: 250px; overflow: hidden">
-                    <h5 class="card-title">OCHS: Introduction to Hinduism - History, Text, Philosophy</h5>
-                    <p class="card-text">This course provides a broad survey of Hindu history, scripture, and thought.</p>
-                  </div>
-                  <a href="#" class="btn" style="color: #FFFFFF; background-color: #921515">Find out more &raquo;</a>
-                </div>
-              </div>
-              <div class="col-sm-4 mt-2">
-                <div class="card">
-                  <img class="card-img-top" style="max-height: 200px; object-fit: cover" src="https://i1.wp.com/ochsonline.org/wp-content/uploads/2016/08/temple.png?w=350&ssl=1" alt="Card image cap">
-                  <div class="card-body" style="height: 250px; overflow: hidden">
-                    <h5 class="card-title">OCHS: Introduction to Hinduism - Ritual, Yoga, Caste, and Gender</h5>
-                    <p class="card-text">In this introduction to Hinduism, we look first of all at Hindu religious practice, including temple ritual and the meditational techniques of classical yoga. We then move on to explore social Hinduism, and in particular issues of caste and gender, before considering the ways in which the religion has sought to respond to the challenges posed by foreign rule and the onset of modernity. In the final part of the course, we take the opportunity to look in a little more detail at some of the great works of Hindu religious literature.</p>
-                  </div>
-                  <a href="#" class="btn" style="color: #FFFFFF; background-color: #921515">Find out more &raquo;</a>
-                </div>
-              </div>
-            </div>
+
             
             <h2>Youtube Channels</h2>
             <ul>
-              <li><a target="_BLANK" href=""></a></li>
+              <li><a target="_BLANK" href="https://www.youtube.com/channel/UCjGxvI96evF5p5ty_Ggeppw?view_as=subscriber">The Study of Christianity</a></li>
               <li><a target="_BLANK" href=""></a></li>
             </ul>
 
