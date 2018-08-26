@@ -6,3 +6,4 @@
 <link href="/css/bootstrap.min.css" rel="stylesheet">
 <link href="/css/carousel.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="https://cdn.iconmonstr.com/1.3.0/css/iconmonstr-iconic-font.min.css" rel="stylesheet">

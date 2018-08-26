@@ -51,46 +51,28 @@
           </div>
         </div>
 
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
+        <div class="row" style="background-color: #f0edfa; padding: 20px; box-shadow: 3px 3px 6px 3px #ccc; margin: 10px 0px 20px 0px">
           <div class="col-md-7">
-            <h2 class="featurette-heading"><a href="news/2018/06/30/diverging-faiths-how-religion-changes-over-time">NEWS: Diverging faiths – how religion changes over time</a></h2>
-            <p>30 June 2018</p>
-            <p class="lead">The history of religion is a history of social, psychological, and spiritual change.</p>
+            <h2>Diverging faiths – how religion changes over time</h2>
+            <p>26 August 2018</p>
+            <p>The history of religion is a history of social, psychological, and spiritual change.</p>
           </div>
           <div class="col-md-5">
             <img class="featurette-image img-fluid mx-auto" src="img/ganesha_statue_640.jpg" alt="ganesha statue">
           </div>
         </div>
 
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
-          <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading"><a href="#">NEWS: Freedom and faith – open source religion</a></h2>
-            <p>24 November 2017</p>
-            <p class="lead">Religion is often used as a by-word for rigid dogma and traditional patterns of behaviour, while open source is a technological term for freedom to examine, customise, and create without structure or restriction – however these different worlds actually have more in common than you might think.</p>
-          </div>
-          <div class="col-md-5 order-md-1">
-            <img class="featurette-image img-fluid mx-auto" src="img/bible.jpg" alt="bible">
-          </div>
-        </div>
-
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading"><a href="#">Register for Introduction to Religious Studies</a></h2>
-            <p>15 November 2017</p>
-            <p class="lead">We are currently drafting our first online course: Introduction to Religious Studies!</p>
-          </div>
+        <div class="row" style="background-color: #f0edfa; padding: 20px; box-shadow: 3px 3px 6px 3px #ccc; margin: 10px 0px 20px 0px">
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="img/dome.jpeg" alt="dome">
+            <img class="featurette-image img-fluid mx-auto" src="img/bible.jpg" alt="ganesha statue">
+          </div>
+          <div class="col-md-7">
+            <h2>Freedom and faith – open source religion</h2>
+            <p>26 August 2018</p>
+            <p>Religion is often used as a by-word for rigid dogma and traditional patterns of behaviour, while open source is a technological term for freedom to examine, customise, and create without structure or restriction – however these different worlds actually have more in common than you might think.</p>
           </div>
         </div>
 
-        <hr class="featurette-divider">
 
       </div>
 

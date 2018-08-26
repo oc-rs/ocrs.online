@@ -14,15 +14,13 @@
         <div class="row mt-3">
           <div class="col-sm">
             <h1>About the OCRS</h1>
-            <div class="row bg-secondary text-white p-2 mb-3">
+            <div class="row bg-secondary text-white p-3 mb-3">
               <div class="col-sm">
-                <h2>Online | Open | Accessible</h2>
-                <p><em>But what does that mean?</em></p>
-                <h3><i style="font-size: 3rem" class="material-icons">important_devices</i> Online</h3>
+                <h2><i style="font-size: 2em" class="material-icons">important_devices</i> Online</h2>
                 <p>As you might gather from our name, we're online! We live in the real world but we want to reach out as far as technology will allow us, to help people all around the globe develop their religious literacy and knowledge.</p>
-                <h3><i style="font-size: 3rem" class="material-icons">visibility</i> Open</h3>
+                <h2><i style="font-size: 2em" class="material-icons">visibility</i> Open</h2>
                 <p>We're open to new ideas, and committed to constant development. If you see something that doesn't look right, tell us! We draw inspiration from the open source software movement, and wherever possible aim to keep our processes transparent, and make our products free to use and adapt.</p>
-                <h3><i style="font-size: 3rem" class="material-icons">how_to_reg</i> Accessible</h3>
+                <h2><i style="font-size: 2em" class="material-icons">how_to_reg</i> Accessible</h2>
                 <p>There's no point being online and open if we hide knowledge behind complicated language and high financial barriers - that's why we're committed to making religious studies accessible to as many people as possible, in a style that makes sense. We also aspire to provide our resources in a way that makes them accessible to users of assistive technologies. If you think we can improve in either of these areas - let us know.</p>
               </div>
             </div>

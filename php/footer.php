@@ -8,9 +8,13 @@
 
         <div class="col-sm-4">
             <div class="row">
-                <div class="col text-center"><a target="_BLANK" href="https://twitter.com/rel_studies/"><img style="max-width: 50px" src="/img/twittericon.png"></a></div>
-                <div class="col text-center"><a target="_BLANK" href="https://www.facebook.com/relstudies/"><img style="max-width: 50px" src="/img/fbicon.png"></a></div></div>
+                <div class="col text-center">
+                    <a target="_BLANK" href="https://www.facebook.com/relstudies/"><i style="font-size: 3em" class="im im-facebook"></i></a>
+                    <a target="_BLANK" href="https://github.com/oc-rs"><i style="font-size: 3em" class="im im-github"></i></a>
+                    <a target="_BLANK" href="https://twitter.com/rel_studies/"><i style="font-size: 3em" class="im im-twitter"></i></a>
+                </div>
             </div>
+        </div>
         
         
         <div class="col-sm-4">The OCRS is dedicated to promoting and facilitating the academic study of religion for a wide and diverse audience - that means you! </div>
