@@ -4,7 +4,7 @@
 
 body {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  /* padding-bottom: 3rem; */
   color: #5a5a5a;
 /*  font-family: 'Times New Roman', Times, serif; */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -95,6 +95,20 @@ body {
   max-width: 100%;
   max-height: 100px;
   object-fit: cover;
+}
+
+footer {
+  padding: 3rem;
+  background-color: #323232; 
+  color: #DADADA
+}
+
+footer a:link {
+  color: #159292;
+}
+
+footer a:hover {
+  color: gold;
 }
 
 /* RESPONSIVE CSS

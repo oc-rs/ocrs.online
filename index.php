@@ -18,7 +18,7 @@
               <div class="carousel-caption text-left">
                 <h1>The Online Centre for Religious Studies</h1>
                 <p>online | open | accessible</p>
-                <p><a class="btn btn-lg btn-ocrs" href="#" role="button">Sign up today</a></p>
+                <p><a class="btn btn-lg btn-ocrs" href="https://signup.oc-rs.org/join" role="button">Sign up today</a></p>
               </div>
             </div>
           </div>

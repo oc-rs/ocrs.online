@@ -1,5 +1,5 @@
-<footer class="container">
-    <hr>
+<footer class="container-fluid">
+    
     <div class="row mb-3">
         <div class="col text-center"><a href="#">Back to top</a></div>
     </div>
