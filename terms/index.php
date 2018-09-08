@@ -19,7 +19,7 @@
             <h2>Copyright</h2>
             <p>Unless otherwise stated, the material and content on the OCRS website and associated pages is protected under copyright and must not be reproduced without permission. Fair use is (obviously) permitted. Quotes are good, plagarism is bad.</p>
             <h2>Users</h2>
-            <p>The OCRS site is open to all users, however enrolment on online courses is limited to those aged 14 or older.</p>
+            <p>The OCRS site is open to all users, however enrolment on online courses is limited to those aged 16 or older.</p>
             <p>Users should not engage in defamation, aggressive speech, trolling, flaming, or whatever the kids are calling it these days. Discussion areas are intended to promote learning and understanding, where this is not happening, user access to these services may be revoked.</p>
             <p>The OCRS is the final arbiter of what counts as unacceptible conduct in its discussion areas.</p>
             <h2>Security</h2>

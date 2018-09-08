@@ -9,7 +9,7 @@
         <div class="col-sm-4">
             <div class="row">
                 <div class="col text-center">
-                    <a target="_BLANK" href="https://www.facebook.com/relstudies/"><i style="font-size: 3em" class="im im-facebook"></i></a>
+                    <a style="color: #159292" target="_BLANK" href="https://www.facebook.com/relstudies/"><i style="font-size: 3em" class="im im-facebook"></i></a>
                     <a target="_BLANK" href="https://github.com/oc-rs"><i style="font-size: 3em" class="im im-github"></i></a>
                     <a target="_BLANK" href="https://twitter.com/rel_studies/"><i style="font-size: 3em" class="im im-twitter"></i></a>
                 </div>

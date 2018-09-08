@@ -18,7 +18,7 @@
             <a class="nav-link" href="/links/">Links</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="/news/">News</a>
+            <a class="nav-link" href="/blog/">Blog</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="/resources/">Free Resources</a>

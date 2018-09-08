@@ -14,7 +14,9 @@
         <div class="row mt-3">
           <div class="col-sm">
             <h1>Resources</h1>
-            <p>This is where the resources go.</p>
+            <h2>Free Email Courses</h2>
+              <a target="_BLANK" href="https://signup.oc-rs.org/how-to-study-religion">How to Study Religion</a>
+              <p>Learn the basics of how to study religion academically, free of charge and delivered straight to your inbox.</p>
           </div>
         </div>
       </div>

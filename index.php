@@ -51,27 +51,40 @@
           </div>
         </div>
 
-        <div class="row" style="background-color: #f0edfa; padding: 20px; box-shadow: 3px 3px 6px 3px #ccc; margin: 10px 0px 20px 0px">
-          <div class="col-md-7">
-            <h2>Diverging faiths – how religion changes over time</h2>
-            <p>26 August 2018</p>
-            <p>The history of religion is a history of social, psychological, and spiritual change.</p>
-          </div>
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="img/ganesha_statue_640.jpg" alt="ganesha statue">
-          </div>
-        </div>
+                    <div class="row newsblock">
+              <div class="col-md-7">
+                <h2>Literary Bias in Celebrity Big Brother</h2>
+                <p>25 August 2018</p>
+                <p>One of the important parts of studying religion is to be open to observations all the time (even if you’re curled up watching TV).</p>
+                <p>On a recent episode of Celebrity Big Brother in the UK, two contestants were having a conversation about religion that caught our interest.</p>
+              </div>
+              <div class="col-md-5">
+                <img class="featurette-image img-fluid mx-auto" src="/img/news.jpg" alt="news-generic">
+              </div>
+            </div>
 
-        <div class="row" style="background-color: #f0edfa; padding: 20px; box-shadow: 3px 3px 6px 3px #ccc; margin: 10px 0px 20px 0px">
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="img/bible.jpg" alt="ganesha statue">
-          </div>
-          <div class="col-md-7">
-            <h2>Freedom and faith – open source religion</h2>
-            <p>26 August 2018</p>
-            <p>Religion is often used as a by-word for rigid dogma and traditional patterns of behaviour, while open source is a technological term for freedom to examine, customise, and create without structure or restriction – however these different worlds actually have more in common than you might think.</p>
-          </div>
-        </div>
+            <div class="row newsblock"> 
+              <div class="col-md-5">
+                <img class="featurette-image img-fluid mx-auto" src="/img/hindu-sculpture.jpg" alt="hindu sculpture">
+              </div>
+              <div class="col-md-7">
+                <h2>Thematic approaches to the study of religion</h2>
+                <p>19 July 2018</p>
+                <p>There are, broadly speaking, two ways to approach religion as an academic subject.</p>
+                <p>The first is based on a sort of family tree model; it looks a bit like this.</p>
+              </div>
+            </div>
+
+            <div class="row newsblock">
+              <div class="col-md-7">
+                <h2>Diverging faiths – how religion changes over time</h2>
+                <p>30 June 2018</p>
+                <p>The history of religion is a history of social, psychological, and spiritual change.</p>
+              </div>
+              <div class="col-md-5">
+                <img class="featurette-image img-fluid mx-auto" src="/img/ganesha_statue_640.jpg" alt="ganesha statue">
+              </div>
+            </div>
 
 
       </div>

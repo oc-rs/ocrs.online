@@ -54,9 +54,9 @@
 
             <h2>Journals and Magazines</h2>
             <ul>
-            <li>BJRE</li>
+            <li><a target="_BLANK" href="https://www.tandfonline.com/toc/cbre20/current">BJRE</a></li>
             <li><a target="_BLANK" href="https://www.tandfonline.com/toc/rcar20/current">Culture and Religion</a></li>
-            <li>JOCBS</li>
+            <li><a target="_BLANK" href="http://jocbs.org/index.php/jocbs">JOCBS</a></li>
             <li><a target="_BLANK" href="http://www.onreligion.co.uk/">On Religion</a></li>
             <li><a target="_BLANK" href="https://www.religionandgender.org/">Religion and Gender</a></li>
             <li><a target="_BLANK" href="http://religiongoingpublic.com/">Religion: Going Public</a></li>
@@ -80,12 +80,38 @@
             </ul>
 
             <h2>Online Courses</h2>
+            <ul>
+            <li><a target='_BLANK' href='https://www.futurelearn.com/courses/muslims-in-britain'>Cardiff University | Muslims in Britain: Changes and Challenges</a></li>
+            <li><a target='_BLANK' href='https://online-learning.harvard.edu/course/religion-conflict-and-peace'>Harvard University | Religion, Conflict and Peace</a></li>
+            <li><a target='_BLANK' href='https://online-learning.harvard.edu/course/world-religions-through-their-scriptures'>Harvard University | World Religions Through Their Scriptures</a></li>
+            <li><a target='_BLANK' href='https://www.futurelearn.com/courses/introducing-humanism'>Humanists UK | Introducing Humanism: Non-religious Approaches to Life</a></li>
+            <li><a target='_BLANK' href='https://www.ocbs-courses.org/catalogue/pali-level-1/'>Oxford Centre for Buddhist Studies | Pali Level 1</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/bhagavad-gita/'>Oxford Centre for Hindu Studies | Bhagavad Gita</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/god-in-bhagavad-gita/'>Oxford Centre for Hindu Studies | God in the Gita</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/hindu-temples/'>Oxford Centre for Hindu Studies | Hindu Temples</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/hinduism-sacred-sound-chant-music/'>Oxford Centre for Hindu Studies | Hinduism and Sacred Sound: Chant and Music</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/mahabharata-ramayana/'>Oxford Centre for Hindu Studies | India’s Epics: The Mahabharata and Ramayana</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/hindu-philosophy-vedanta-samkhya/'>Oxford Centre for Hindu Studies | Introduction to Hindu Philosophy-Vedanta and Samkhya</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/hinduism-history-text-philosophy/'>Oxford Centre for Hindu Studies | Introduction to Hinduism: History, Text, Philosophy</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/hinduism-ritual-yoga-caste-gender/'>Oxford Centre for Hindu Studies | Introduction to Hinduism: Ritual, Yoga, Caste, and Gender</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/yoga-philosophy/'>Oxford Centre for Hindu Studies | Philosophy of Yoga</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/sanskrit-level-1/'>Oxford Centre for Hindu Studies | Sanskrit: Level 1</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/sanskrit-level-2/'>Oxford Centre for Hindu Studies | Sanskrit: Level 2</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/puranas/'>Oxford Centre for Hindu Studies | The Puranas</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/three-short-upanishad/'>Oxford Centre for Hindu Studies | Three Short Upanishads</a></li>
+            <li><a target='_BLANK' href='https://ochsonline.org/product/vedas-upanishads/'>Oxford Centre for Hindu Studies | Vedas and Upanishads</a></li>
+            <li><a target='_BLANK' href='https://www.edx.org/course/religion-hip-hop-culture-ricex-reli157x'>Rice University | Religion and Hip Hop Culture</a></li>
+            <li><a target='_BLANK' href='https://www.edx.org/course/the-science-of-religion'>The University of British Columbia | The Science of Religion</a></li>
+            <li><a target='_BLANK' href='https://www.futurelearn.com/courses/religion-and-conflict'>University of Groningen | Religion and Conflict</a></li>
+            <li><a target='_BLANK' href='https://www.conted.ox.ac.uk/courses/introduction-to-world-religions-online'>University of Oxford | Introduction to World Religions</a></li>
+            </ul>
 
-            
             <h2>Youtube Channels</h2>
             <ul>
+              <li><a target="_BLANK" href="https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g">Let's Talk Religion</a></li>
+              <li><a target="_BLANK" href="https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw">Religion For Breakfast</a></li>
               <li><a target="_BLANK" href="https://www.youtube.com/channel/UCjGxvI96evF5p5ty_Ggeppw?view_as=subscriber">The Study of Christianity</a></li>
-              <li><a target="_BLANK" href=""></a></li>
+              
             </ul>
 
             <h2>Resources, Projects, Articles</h2>

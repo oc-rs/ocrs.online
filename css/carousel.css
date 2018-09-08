@@ -104,11 +104,28 @@ footer {
 }
 
 footer a:link {
-  color: #159292;
+  color: #159292!important;
 }
 
 footer a:hover {
-  color: gold;
+  color: gold!important;
+}
+
+footer a:visited {
+  color: #159292!important;
+}
+
+blockquote {
+  border-left: 5px solid #159292;
+  padding-left: 1rem;
+  margin-left: 2rem;
+}
+
+.newsblock {
+  background-color: #f0edfa;
+  padding: 20px;
+  box-shadow: 3px 3px 6px 3px #ccc;
+  margin: 10px 0px 20px 0px
 }
 
 /* RESPONSIVE CSS
