@@ -48,6 +48,7 @@
               <li><a target="_BLANK" href="http://www.reonline.org.uk/">RE:Online</a></li>
               <li><a target="_BLANK" href="https://sssreligion.org/">Society for the Scientific Study of Religion</a></li>
               <li><a target="_BLANK" href="https://criticalreligion.org/">The Critical Religion Association</a></li>
+              <li><a target="_BLANK" href="https://www.issrnc.org/">The International Society for the Study of Religion, Nature, and Culture (ISSRNC)</a></li>
               <li><a target="_BLANK" href="https://ukabs.org.uk/">UK Association for Buddhist Studies (UKABS)</a></li>
               <li><a target="_BLANK" href="https://www.woolf.cam.ac.uk/">Woolf Institute</a></li>
             </ul>
@@ -57,6 +58,7 @@
             <li><a target="_BLANK" href="https://www.tandfonline.com/toc/cbre20/current">BJRE</a></li>
             <li><a target="_BLANK" href="https://www.tandfonline.com/toc/rcar20/current">Culture and Religion</a></li>
             <li><a target="_BLANK" href="http://jocbs.org/index.php/jocbs">JOCBS</a></li>
+            <li><a target="_BLANK" href="https://journals.equinoxpub.com/index.php/JSRNC/index">Journal for the Study of Religion, Nature and Culture</a></li>
             <li><a target="_BLANK" href="http://www.onreligion.co.uk/">On Religion</a></li>
             <li><a target="_BLANK" href="https://www.religionandgender.org/">Religion and Gender</a></li>
             <li><a target="_BLANK" href="http://religiongoingpublic.com/">Religion: Going Public</a></li>
