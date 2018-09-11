@@ -14,7 +14,6 @@
         <div class="row mt-3">
           <div class="col-sm">
             <h1>Links</h1>
-            
             <div class="alert alert-warning" role="alert">
               This page provides a list of links to other websites, online resources, and useful material.<br><br>Please note that organisations linked below are not affiliated with the OCRS, and we are not responsible for any content hosted elsewhere.<br><br>Can't find what you're looking for? Want to share your website, project, or podcast? <a href="/contact/">Tell us!</a>
             </div>

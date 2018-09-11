@@ -107,12 +107,28 @@ footer a:link {
   color: #159292!important;
 }
 
-footer a:hover {
-  color: gold!important;
-}
-
 footer a:visited {
   color: #159292!important;
+}
+
+footer a:hover {
+  color: #ffc500!important;
+  text-decoration: none;
+}
+
+a.newslink:link {
+  text-decoration: none;
+  color: inherit;
+}
+
+a.newslink:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+a.newslink:hover {
+  background-color: #ffc500;
+  color: #921515;
 }
 
 blockquote {
@@ -126,6 +142,20 @@ blockquote {
   padding: 20px;
   box-shadow: 3px 3px 6px 3px #ccc;
   margin: 10px 0px 20px 0px
+}
+
+.newsblock:hover {
+  background-color: #ffc500;
+}
+
+.newsbanner {
+  width: 100%;
+  object-fit: cover;
+  max-height: 200px;
+}
+
+article {
+  padding-top: 1rem;
 }
 
 /* RESPONSIVE CSS

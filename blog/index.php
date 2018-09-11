@@ -16,18 +16,18 @@
             <h1>Blog</h1>
             <p>All the latest news and articles from the OCRS</p>
 
-            <div class="row newsblock">
-              <div class="col-md-7">
-                <h2>Literary Bias in Celebrity Big Brother</h2>
+          <div class="row newsblock">
+            <div class="col-md-7">
+              <a class="newslink" href="2018/08/25/literary-bias-in-celebrity-big-brother"><h2>Literary Bias in Celebrity Big Brother</h2></a>
                 <p>25 August 2018</p>
                 <p>One of the important parts of studying religion is to be open to observations all the time (even if you’re curled up watching TV).</p>
                 <p>On a recent episode of Celebrity Big Brother in the UK, two contestants were having a conversation about religion that caught our interest.</p>
               </div>
               <div class="col-md-5">
-                <img class="featurette-image img-fluid mx-auto" src="/img/news.jpg" alt="news-generic">
+              <a class="newslink" href="2018/08/25/literary-bias-in-celebrity-big-brother"><img class="featurette-image img-fluid mx-auto" src="/img/news.jpg" alt="news-generic"></a>
               </div>
             </div>
-
+            
             <div class="row newsblock"> 
               <div class="col-md-5">
                 <img class="featurette-image img-fluid mx-auto" src="/img/hindu-sculpture.jpg" alt="hindu sculpture">

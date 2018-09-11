@@ -8,7 +8,7 @@
   <body>
     <header><?php include '../php/nav.php'; ?></header>
 
-    <main role="main">
+    <main role="main p-0">
       <img src="/img/mountain.jpeg" class="smallbanner">
       <div class="container">
         <div class="row mt-3">
@@ -16,6 +16,7 @@
             <h1>About the OCRS</h1>
             <div class="row bg-secondary text-white p-3 mb-3">
               <div class="col-sm">
+                
                 <h2><i style="font-size: 2em" class="material-icons">important_devices</i> Online</h2>
                 <p>As you might gather from our name, we're online! We live in the real world but we want to reach out as far as technology will allow us, to help people all around the globe develop their religious literacy and knowledge.</p>
                 <h2><i style="font-size: 2em" class="material-icons">visibility</i> Open</h2>
