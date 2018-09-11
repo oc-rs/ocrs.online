@@ -13,10 +13,10 @@
       <div class="container">
         <div class="row mt-3">
           <div class="col-sm">
-            <h1>Resources</h1>
-            <h2>Free Email Courses</h2>
-              <a target="_BLANK" href="https://signup.oc-rs.org/how-to-study-religion">How to Study Religion</a>
-              <p>Learn the basics of how to study religion academically, free of charge and delivered straight to your inbox.</p>
+            <h1>Free Resources</h1>
+            <h2>Email Courses</h2>
+            <a target="_BLANK" href="https://signup.oc-rs.org/how-to-study-religion">How to Study Religion</a>
+            <p><em>Learn the basics of how to study religion academically, free of charge and delivered straight to your inbox.</em></p>
           </div>
         </div>
       </div>
