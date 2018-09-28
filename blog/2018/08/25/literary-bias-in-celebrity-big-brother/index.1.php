@@ -10,18 +10,12 @@
 
     <main role="main">
       <img src="/img/mountain.jpeg" class="smallbanner">
-      <div style="background-color: #ffc500; color: #201900">
-      <h1 style="padding: 20px 20px 20px 20px; margin: 0">Literary Bias in Celebrity Big Brother</h1>
-      </div>
-      <div style="background-color: #159292; color: white">
-      <h5 style="padding: 10px 10px 10px 20px; margin: 0">Posted 25 August 2018 by Luke Burns</h5>
-      </div>
       <div class="container">
-        <div class="row">
+        <div class="row mt-3">
           <div class="col-sm">
-            <div class="row">
-            <div class="col-sm-1"></div>
-            <div class="col-sm-8">
+            <h1>Literary Bias in Celebrity Big Brother</h1>
+            <h5 class="text-muted">Posted 25 August 2018 by Luke Burns</h5>
+            <img class="newsbanner" src="/img/temple-hills.jpg" alt="news-generic">
             <article>
               <p>One of the important parts of studying religion is to be open to observations all the time (even if you're curled up watching TV).</p>
               <p>On a recent episode of Celebrity Big Brother in the UK, two contestants were having a conversation about religion that caught our interest.</p>
@@ -55,23 +49,18 @@
               <p>Religious people draw inspiration from religious texts, this is fairly uncontroversial, but no religious text exists in a perfect bubble of meaning. Every text must be read and interpreted in the light of its prevailing culture, which includes additional ideas, interpretations, and perspectives.</p>
 
               <p>Furthermore, the relationship between a religious text and the practices of those who claim it is not perfect; few Christians adhere to the Bible's instructions exactly as written, and even the Quran - believed to be the literal word of God - is embedded within a long historical process of interpretation, application, and supplemented by the example of the prophet Muhammad's life (the hadith) and individual personal conscience.</p>
+
               <p>We also encounter this difficulty with the recent debate about veiling in Islam, particular the wearing of burqas and niqabs by women in Western countries. This practice has been criticised by a number of individuals (including the UK foreign secretary), and outright banned in public in a number of European nations. These attempts to restrict the practice of veiling women have been criticised as an attack on religion by some, yet the response is often that the practice is <em>cultural </em>not religious, because the Quran does not mandate it.</p>
 
               <p>If the Quran were the single source of religious practice, the Islamic world would be a far less vibrant and complex place, because in truth no religion (as far as we can comfortably isolate such a thing) is contained within its holy scripture. Religion exists in people, and people come up with new ideas, they read old words in new ways, and they find innovative ways to apply old principles.</p>
 
               <p>None of which is to claim one side or the other of the veiling debate is 'correct', but simply to say that a religion is more than its books, and to rule something out as non-religious on the basis of its absence from a text is problematic and counter-productive.</p>
             </article>
-            </div>
-            <div class="col-sm"></div>
-          </div>
+
 
           </div>
         </div>
       </div>
-
-      <div style="width: 100%">
-      <script type="text/javascript" src="https://static.mailerlite.com/data/webforms/652420/k8w9j7.js?v7"></script>
-
       <?php include '../../../../../php/footer.php'; ?>
     </main>
     <?php include '../../../../../php/scripts.php'; ?>

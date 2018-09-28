@@ -103,16 +103,16 @@ footer {
   color: #DADADA
 }
 
-footer a:link {
-  color: #159292!important;
+a:link {
+  color: #159292;
 }
 
-footer a:visited {
-  color: #159292!important;
+a:visited {
+  color: #159292;
 }
 
-footer a:hover {
-  color: #ffc500!important;
+a:hover {
+  color: #ffc500;
   text-decoration: none;
 }
 
@@ -129,6 +129,18 @@ a.newslink:visited {
 a.newslink:hover {
   background-color: #ffc500;
   color: #921515;
+}
+
+a.nav-link:link {
+  color: black;
+}
+
+a.nav-link:visited {
+  color: black;
+}
+
+a.nav-link:hover {
+  color: black;
 }
 
 blockquote {
@@ -156,6 +168,10 @@ blockquote {
 
 article {
   padding-top: 1rem;
+}
+
+article>p:first-child {
+  font-size: 1.5rem;
 }
 
 /* RESPONSIVE CSS

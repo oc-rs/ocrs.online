@@ -27,11 +27,13 @@
               <li><a target="_BLANK" href="http://sites.cardiff.ac.uk/islamukcentre/">Centre for the Study of Islam in the UK</a></li>
               <li><a target="_BLANK" href="https://cswr.hds.harvard.edu/">Center for the Study of World Religions</a></li>
               <li><a target="_BLANK" href="http://www.cis.cam.ac.uk/">Centre of Islamic Studies</a></li>
+              <li><a target="_BLANK" href="https://www.europeanacademyofreligion.org/">European Academy of Religion</a></li>
               <li><a target="_BLANK" href="http://www.easr.info/">European Association for the Study of Religions (EASR)</a></li>
               <li><a target="_BLANK" href="http://www.fsrinc.org/">Feminist Studies in Religion (FSR)</a></li>
               <li><a target="_BLANK" href="http://www.hinduacademy.org/">Hindu Academy</a></li>
               <li><a target="_BLANK" href="http://www.iahrweb.org/">International Association for the History of Religions (IAHR)</a></li>
               <li><a target="_BLANK" href="https://associationreligionandgender.org/">International Association for the Study of Religion and Gender</a></li>
+              <li><a target="_BLANK" href="https://www.theiarj.org/">International Association of Religion Journalists</a></li>
               <li><a target="_BLANK" href="http://www.iqsaweb.org/">International Qur'anic Studies Association</a></li>
               <li><a target="_BLANK" href="https://www.ltlre.org/">Learn Teach Lead RE</a></li>
               <li><a target="_BLANK" href="http://www.lotsawahouse.org/>">Lotsawa House</a></li>
@@ -45,6 +47,7 @@
               <li><a target="_BLANK" href="https://www.religiouseducationcouncil.org.uk/">Religious Education Council of England and Wales</a></li>
               <li><a target="_BLANK" href="https://rlp.hds.harvard.edu/">Religious Literacy Project</a></li>
               <li><a target="_BLANK" href="http://www.reonline.org.uk/">RE:Online</a></li>
+              <li><a target="_BLANK" href="http://reires.eu/">Research Infrastructure on Religious Studies (ReIReS)</a></li>
               <li><a target="_BLANK" href="https://sssreligion.org/">Society for the Scientific Study of Religion</a></li>
               <li><a target="_BLANK" href="https://criticalreligion.org/">The Critical Religion Association</a></li>
               <li><a target="_BLANK" href="https://www.issrnc.org/">The International Society for the Study of Religion, Nature, and Culture (ISSRNC)</a></li>
