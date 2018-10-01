@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <?php include '../../../../../php/head.php'; ?>
-    <title>Online Centre for Religious Studies | Blog</title>
+    <title>Literary bias in Celebrity Big Brother | Blog | Online Centre for Religious Studies</title>
   </head>
 
   <body>
@@ -10,11 +10,11 @@
 
     <main role="main">
       <img src="/img/mountain.jpeg" class="smallbanner">
-      <div style="background-color: #ffc500; color: #201900">
-      <h1 style="padding: 20px 20px 20px 20px; margin: 0">Literary Bias in Celebrity Big Brother</h1>
+      <div class="blogtitle">
+        <h1>Literary bias in Celebrity Big Brother</h1>
       </div>
-      <div style="background-color: #159292; color: white">
-      <h5 style="padding: 10px 10px 10px 20px; margin: 0">Posted 25 August 2018 by Luke Burns</h5>
+      <div class="blogbyline">
+        <h5>Posted 25 August 2018 by Luke Burns</h5>
       </div>
       <div class="container">
         <div class="row">

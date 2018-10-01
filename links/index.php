@@ -21,6 +21,7 @@
             <h2>Organisations</h2>
             <ul>
               <li><a target="_BLANK" href="http://www.adrsa.org/">African and Diasporic Religious Studies Association</a></li>
+              <li><a target="_BLANK" href="http://www.a-asr.org/">African Association for the Study of Religions</a></li>
               <li><a target="_BLANK" href="https://www.aarweb.org/">American Academy of Religion (AAR)</a></li>
               <li><a target="_BLANK" href="http://bcsr.berkeley.edu/">Berkeley Center for the Study of Religion (BCSR)</a></li>
               <li><a target="_BLANK" href="https://basr.ac.uk/">British Association for the Study of Religions (BASR)</a></li>
@@ -36,7 +37,7 @@
               <li><a target="_BLANK" href="https://www.theiarj.org/">International Association of Religion Journalists</a></li>
               <li><a target="_BLANK" href="http://www.iqsaweb.org/">International Qur'anic Studies Association</a></li>
               <li><a target="_BLANK" href="https://www.ltlre.org/">Learn Teach Lead RE</a></li>
-              <li><a target="_BLANK" href="http://www.lotsawahouse.org/>">Lotsawa House</a></li>
+              <li><a target="_BLANK" href="http://www.lotsawahouse.org/">Lotsawa House</a></li>
               <li><a target="_BLANK" href="http://www.natre.org.uk/">National Association of Teachers of Religious Education (NATRE)</a></li>
               <li><a target="_BLANK" href="https://naasr.com/">North American Association for the Study of Religion (NAASR)</a></li>
               <li><a target="_BLANK" href="http://www.religioustolerance.org/">Ontario Consultants on Religious Tolerance (OCRT)</a></li>

@@ -1,33 +1,33 @@
-/* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
-
 body {
   padding-top: 3rem;
-  /* padding-bottom: 3rem; */
   color: #5a5a5a;
-/*  font-family: 'Times New Roman', Times, serif; */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.navbar, .btn-ocrs {
+.navbar {
   background-color: #921515;
   color: #FFFFFF;
 }
 
-.btn-ocrs:hover {
-  background-color: #921515;
+a.btn-ocrs:link {
+  color: #FFFFFF;
+  background-color: #159292;
+}
+
+a.btn-ocrs:visited {
+  background-color: #159292;
   color: #FFFFFF;
 }
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
+a.btn-ocrs:hover {
+  background-color: #FFC500;
+  color: #FFFFFF;
+}
 
-/* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
 }
-/* Since positioning the image, we need to help out the caption */
+
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
@@ -35,15 +35,11 @@ body {
   background-color: rgba(0,0,0,0.5);
 }
 
-.carousel-caption h1 {
-
-}
-
-/* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
   background-color: #777;
 }
+
 .carousel-item > img {
   position: absolute;
   top: 0;
@@ -53,43 +49,25 @@ body {
   object-fit: cover;
 }
 
-
-/* MARKETING CONTENT
--------------------------------------------------- */
-
-/* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
 }
+
 .marketing h2 {
   font-weight: 400;
 }
+
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
 }
 
-
-/* Featurettes
-------------------------- */
-
-.featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-}
-
-/* Thin out the marketing headings */
-.featurette-heading {
-  font-weight: 300;
-  line-height: 1;
-  letter-spacing: -.05rem;
-}
-
-.featurette-heading a {
-  color: #921515;
-}
-
-/* Other bits */
+/* 
+Small banner is the collapsed 
+mountain image which appears
+on pages other than main
+*/
 .smallbanner {
   min-width: 100%;
   max-width: 100%;
@@ -97,10 +75,28 @@ body {
   object-fit: cover;
 }
 
-footer {
-  padding: 3rem;
+footer.container-fluid {
+  padding: 3rem 3rem;
+  margin: 0px;
   background-color: #323232; 
   color: #DADADA
+}
+
+footer a:link {
+  color: #159292!important;
+}
+
+footer a:visited {
+  color: #159292!important;
+}
+
+footer a:hover {
+  color: #ffc500!important;
+  text-decoration: none;
+}
+
+footer>.row>.col-sm-4 {
+  padding-top: 50px;
 }
 
 a:link {
@@ -131,18 +127,6 @@ a.newslink:hover {
   color: #921515;
 }
 
-a.nav-link:link {
-  color: black;
-}
-
-a.nav-link:visited {
-  color: black;
-}
-
-a.nav-link:hover {
-  color: black;
-}
-
 blockquote {
   border-left: 5px solid #159292;
   padding-left: 1rem;
@@ -170,8 +154,28 @@ article {
   padding-top: 1rem;
 }
 
-article>p:first-child {
+article>p:first-of-type {
   font-size: 1.5rem;
+}
+
+.blogtitle {
+  background-color: #ffc500;
+  color: #201900
+}
+
+.blogtitle>h1 {
+  padding: 20px;
+  margin: 0px;
+}
+
+.blogbyline {
+  background-color: #159292;
+  color: #FFFFFF;
+}
+
+.blogbyline>h5 {
+  padding: 10px 10px 10px 20px; 
+  margin: 0px;
 }
 
 /* RESPONSIVE CSS
@@ -184,14 +188,3 @@ article>p:first-child {
     font-size: 1.25rem;
     line-height: 1.4;
   }
-
-  .featurette-heading {
-    font-size: 50px;
-  }
-}
-
-@media (min-width: 62em) {
-  .featurette-heading {
-    margin-top: 7rem;
-  }
-}

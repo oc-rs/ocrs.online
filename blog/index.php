@@ -16,6 +16,17 @@
             <h1>Blog</h1>
             <p>All the latest news and articles from the OCRS</p>
 
+            <div class="row newsblock"> 
+              <div class="col-md-5">
+              <a class="newslink" href="2018/10/01/the-foundations-of-modern-yoga"><img class="featurette-image img-fluid mx-auto" src="/img/yoga.jpg" alt="hindu sculpture"></a>
+              </div>
+              <div class="col-md-7">
+                <a class="newslink" href="2018/10/01/the-foundations-of-modern-yoga"><h2>The foundations of modern yoga</h2></a>
+                <p>1 October 2018</p>
+                <p>We are faced with a difficult task when it comes to defining contemporary yoga, since there are numerous variants, countless schools, and a broad spectrum of teaching.</p>
+              </div>
+            </div>
+
           <div class="row newsblock">
             <div class="col-md-7">
               <a class="newslink" href="2018/08/25/literary-bias-in-celebrity-big-brother"><h2>Literary Bias in Celebrity Big Brother</h2></a>
@@ -30,10 +41,10 @@
             
             <div class="row newsblock"> 
               <div class="col-md-5">
-                <img class="featurette-image img-fluid mx-auto" src="/img/hindu-sculpture.jpg" alt="hindu sculpture">
+              <a class="newslink" href="2018/07/19/thematic-approaches-to-the-study-of-religion"><img class="featurette-image img-fluid mx-auto" src="/img/hindu-sculpture.jpg" alt="hindu sculpture"></a>
               </div>
               <div class="col-md-7">
-                <h2>Thematic approaches to the study of religion</h2>
+                <a class="newslink" href="2018/07/19/thematic-approaches-to-the-study-of-religion"><h2>Thematic approaches to the study of religion</h2></a>
                 <p>19 July 2018</p>
                 <p>There are, broadly speaking, two ways to approach religion as an academic subject.</p>
                 <p>The first is based on a sort of family tree model; it looks a bit like this.</p>
@@ -75,10 +86,10 @@
 
             <div class="row newsblock"> 
               <div class="col-md-5">
-                <img class="featurette-image img-fluid mx-auto" src="/img/jesus-statue.jpeg" alt="jesus statue">
+              <a class="newslink" href="2017/11/04/the-importance-of-religious-literacy"><img class="featurette-image img-fluid mx-auto" src="/img/jesus-statue.jpeg" alt="jesus statue"></a>
               </div>
               <div class="col-md-7">
-                <h2>The importance of religious literacy</h2>
+                <a class="newslink" href="2017/11/04/the-importance-of-religious-literacy"><h2>The importance of religious literacy</h2></a>
                 <p>4 November 2017</p>
                 <p>Religion impacts many aspects of our lives, and religious events are all around us, both positive and negative. Over the last few years, the idea of improving religious literacy has been gaining ground, with the launch of the Religious Literacy Project at the Harvard Divinity School in 2015, and the publication of the All-Party Parliamentary Group on Religious Education’s report (Improving Religious Literacy) in 2016.</p>
               </div>
