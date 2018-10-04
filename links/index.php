@@ -2,7 +2,12 @@
 <html lang="en">
   <head>
     <?php include '../php/head.php'; ?>
-    <title>Online Centre for Religious Studies | Links</title>
+    <title>Links | Online Centre for Religious Studies</title>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@rel_studies">
+    <meta name="twitter:title" content="Links | OCRS">
+    <meta name="twitter:description" content="Links to online resources and organisations for religious studies.">
+    <meta name="twitter:image" content="https://oc-rs.org/img/mountain_640.jpeg">
   </head>
 
   <body>
@@ -23,11 +28,14 @@
               <li><a target="_BLANK" href="http://www.adrsa.org/">African and Diasporic Religious Studies Association</a></li>
               <li><a target="_BLANK" href="http://www.a-asr.org/">African Association for the Study of Religions</a></li>
               <li><a target="_BLANK" href="https://www.aarweb.org/">American Academy of Religion (AAR)</a></li>
+              <li><a target="_BLANK" href="https://bahai-studies.ca/">Association for Bahá’í Studies</a></li>
+              <li><a target="_BLANK" href="https://www.bahai.us/">Bahá’ís of the United States</a></li>
               <li><a target="_BLANK" href="http://bcsr.berkeley.edu/">Berkeley Center for the Study of Religion (BCSR)</a></li>
               <li><a target="_BLANK" href="https://basr.ac.uk/">British Association for the Study of Religions (BASR)</a></li>
               <li><a target="_BLANK" href="http://sites.cardiff.ac.uk/islamukcentre/">Centre for the Study of Islam in the UK</a></li>
               <li><a target="_BLANK" href="https://cswr.hds.harvard.edu/">Center for the Study of World Religions</a></li>
               <li><a target="_BLANK" href="http://www.cis.cam.ac.uk/">Centre of Islamic Studies</a></li>
+              <li><a target="_BLANK" href="https://www.wlv.ac.uk/about-us/our-schools-and-institutes/faculty-of-arts/school-of-humanities/centre-for-sikh-and-panjabi-studies/">Centre for Sikh and Panjabi Studies</a></li>
               <li><a target="_BLANK" href="https://www.europeanacademyofreligion.org/">European Academy of Religion</a></li>
               <li><a target="_BLANK" href="http://www.easr.info/">European Association for the Study of Religions (EASR)</a></li>
               <li><a target="_BLANK" href="http://www.fsrinc.org/">Feminist Studies in Religion (FSR)</a></li>
@@ -53,6 +61,7 @@
               <li><a target="_BLANK" href="https://criticalreligion.org/">The Critical Religion Association</a></li>
               <li><a target="_BLANK" href="https://www.issrnc.org/">The International Society for the Study of Religion, Nature, and Culture (ISSRNC)</a></li>
               <li><a target="_BLANK" href="https://ukabs.org.uk/">UK Association for Buddhist Studies (UKABS)</a></li>
+              <li><a target="_BLANK" href="http://wilmetteinstitute.org/">Wilmette Institute</a></li>
               <li><a target="_BLANK" href="https://www.woolf.cam.ac.uk/">Woolf Institute</a></li>
             </ul>
 
@@ -60,8 +69,9 @@
             <ul>
             <li><a target="_BLANK" href="https://www.tandfonline.com/toc/cbre20/current">BJRE</a></li>
             <li><a target="_BLANK" href="https://www.tandfonline.com/toc/rcar20/current">Culture and Religion</a></li>
-            <li><a target="_BLANK" href="http://jocbs.org/index.php/jocbs">JOCBS</a></li>
             <li><a target="_BLANK" href="https://journals.equinoxpub.com/index.php/JSRNC/index">Journal for the Study of Religion, Nature and Culture</a></li>
+            <li><a target="_BLANK" href="https://bahai-studies.ca/publications/journal/">Journal of Bahá’í Studies</a></li>
+            <li><a target="_BLANK" href="http://jocbs.org/index.php/jocbs">Journal of the Oxford Centre for Buddhist Studies</a></li>
             <li><a target="_BLANK" href="http://www.onreligion.co.uk/">On Religion</a></li>
             <li><a target="_BLANK" href="https://www.religionandgender.org/">Religion and Gender</a></li>
             <li><a target="_BLANK" href="http://religiongoingpublic.com/">Religion: Going Public</a></li>
@@ -109,6 +119,11 @@
             <li><a target='_BLANK' href='https://www.edx.org/course/the-science-of-religion'>The University of British Columbia | The Science of Religion</a></li>
             <li><a target='_BLANK' href='https://www.futurelearn.com/courses/religion-and-conflict'>University of Groningen | Religion and Conflict</a></li>
             <li><a target='_BLANK' href='https://www.conted.ox.ac.uk/courses/introduction-to-world-religions-online'>University of Oxford | Introduction to World Religions</a></li>
+            <li><a target="_BLANK" href="https://www.woolf.cam.ac.uk/study/online-courses/bridging-the-great-divide-the-jewish-muslim-encounter">Woolf Institute | Bridging the Great Divide: the Jewish-Muslim Encounter</a></li>
+            <li><a target="_BLANK" href="https://www.woolf.cam.ac.uk/study/online-courses/interreligious-understanding-today">Woolf Institute | Interreligious Understanding Today</a></li>
+            <li><a target="_BLANK" href="https://www.woolf.cam.ac.uk/study/online-courses/jews-christians-and-muslims-in-europe-modern-challenges">Woolf Institute | Jews, Christians and Muslims in Europe: Modern Challenges</a></li>
+            <li><a target="_BLANK" href="https://www.woolf.cam.ac.uk/study/online-courses/religion-is">Woolf Institute | Religion is...</a></li>
+            <li><a target="_BLANK" href="https://www.woolf.cam.ac.uk/study/online-courses/representations-of-jewish-christian-relations-in-literature">Woolf Institute | Representations of Jewish-Christian Relations in Literature</a></li>
             </ul>
 
             <h2>Youtube Channels</h2>
