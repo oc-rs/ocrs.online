@@ -50,6 +50,7 @@
               <li><a target="_BLANK" href="https://naasr.com/">North American Association for the Study of Religion (NAASR)</a></li>
               <li><a target="_BLANK" href="http://www.religioustolerance.org/">Ontario Consultants on Religious Tolerance (OCRT)</a></li>
               <li><a target="_BLANK" href="https://ocbs.org/">Oxford Centre for Buddhist Studies (OCBS)</a></li>
+              <li><a target="_BLANK" href="https://www.ochjs.ac.uk/">Oxford Centre for Hebrew and Jewish Studies</a></li>
               <li><a target="_BLANK" href="http://ochs.org.uk/">Oxford Centre for Hindu Studies (OCHS)</a></li>
               <li><a target="_BLANK" href="https://www.oxcis.ac.uk/">Oxford Centre for Islamic Studies</a></li>
               <li><a target="_BLANK" href="http://www.palitext.com/">Pali Text Society</a></li>
@@ -57,6 +58,8 @@
               <li><a target="_BLANK" href="https://rlp.hds.harvard.edu/">Religious Literacy Project</a></li>
               <li><a target="_BLANK" href="http://www.reonline.org.uk/">RE:Online</a></li>
               <li><a target="_BLANK" href="http://reires.eu/">Research Infrastructure on Religious Studies (ReIReS)</a></li>
+              <li><a target="_BLANK" href="http://sikh2inspire.com/">Sikh2Inspire</a></li>
+              <li><a target="_BLANK" href="http://sharecharityuk.com/">Sikh History & Religious Education (SHARE)</a></li>
               <li><a target="_BLANK" href="https://sssreligion.org/">Society for the Scientific Study of Religion</a></li>
               <li><a target="_BLANK" href="https://criticalreligion.org/">The Critical Religion Association</a></li>
               <li><a target="_BLANK" href="https://www.issrnc.org/">The International Society for the Study of Religion, Nature, and Culture (ISSRNC)</a></li>
