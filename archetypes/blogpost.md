@@ -6,6 +6,7 @@ slug: sample-title
 
 date: 2018-10-29
 author: Luke Burns
+description: The first few lines of an article...
 
 image: https://oc-rs.org/img/mountain_640.jpeg
 

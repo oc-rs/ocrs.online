@@ -6,6 +6,7 @@ slug: literary-bias-in-celebrity-big-brother
 
 date: 2018-08-25
 author: Luke Burns
+description: One of the important parts of studying religion is to be open to observations all the time (even if you're curled up watching TV).
 
 image: https://oc-rs.org/img/news.jpg
 

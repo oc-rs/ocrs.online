@@ -6,6 +6,7 @@ slug: the-foundations-of-modern-yoga
 
 date: 2018-10-01
 author: Luke Burns
+description: We are faced with a difficult task when it comes to defining contemporary yoga, since there are numerous variants, countless schools, and a broad spectrum of teaching.
 
 image: https://oc-rs.org/img/yoga.jpg
 
