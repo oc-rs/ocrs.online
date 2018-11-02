@@ -178,6 +178,10 @@ article>p:first-of-type {
   margin: 0px;
 }
 
+li {
+  word-wrap: break-word;
+}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
