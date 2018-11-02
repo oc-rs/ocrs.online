@@ -1,0 +1,4 @@
+baseURL = "https://oc-rs.org/"
+languageCode = "en-gb"
+[permalinks]
+  blog = "/:year/:month/:day/:slug/"

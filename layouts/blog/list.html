@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+
+    <main role="main">
+        <img src="/img/mountain.jpeg" class="smallbanner">
+        <div class="container">
+            <div class="row mt-3">
+                <div class="col-sm">
+                    {{ .Content }}
+
+                    {{ range .Pages }}
+                    <div class="row newsblock">
+                        <div class="col-md-7">
+                            <a class="newslink" href="{{ .Permalink }}"><h2>{{ .Params.blogtitle }}</h2></a>
+                            <p><em>{{ .Date.Format "2 January 2006" }} | {{ .Params.author }}</em></p>
+                            <p>{{ .Summary }}</p>
+                        </div>
+                        <div class="col-md-5">
+                            <a class="newslink" href="{{ .Permalink }}"><img class="featurette-image img-fluid mx-auto" src="{{ .Params.image }}"></a>
+                        </div>
+                    </div>
+                    {{ end }}
+
+                </div>
+            </div>
+          </div>
+
+      <footer class="container-fluid">
+        {{ partial "footer.html" . }}
+      </footer>
+    </main>
+
+    {{ partial "scripts.html" }}
+    
+    </body>
+</html>
