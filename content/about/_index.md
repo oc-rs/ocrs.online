@@ -50,12 +50,38 @@ The OCRS agrees with the general sentiments of the <a href="http://www.reonline.
 
 <blockquote class="blockquote">Religious literacy is not the exclusive domain of religious people – it is needed by everyone. The promotion of greater religious literacy is not intended to make people more religious, or to encourage a more positive view of religion. Instead, the aim of developing better religious literacy is intended to equip communities and individuals to understand each other better, to engage with one another on a more informed basis and to promote cohesion within a more inclusive and holistic society.</blockquote>
 
-### OCRS <span style="color: #921515">&#9829;</span> Linux
+### OCRS <span style="color: #921515">&#9829;</span> open source
 We're big fans of Linux, and currently use <a href="https://linuxmint.com/" target="_BLANK">Linux Mint</a> for all our computing needs.
+
+Our website is built using the open source static site generator <a target="_BLANK" href="https://gohugo.io">Hugo</a>.
+
+The site's code is freely available on our <a target="_BLANK" href="https://github.com/oc-rs">Github account</a> in case you want to have a look.
+
+### The church and the mountain
+<img style="width: 200px" class="rounded-circle" src="/img/logo-2018-illustrated-notext.jpg">
+
+The banner image of the OCRS is the Iglesia de Nuestra Señora de los Remedios (Our Lady of Remedies Church), located in Cholula, Mexico. The photo we use was taken by <a target="_BLANK" href="https://www.flickr.com/people/lastingimages/">pedro lastra</a> and is available via CC0 <a target="_BLANK" href="https://pixabay.com/en/ancient-architecture-building-1866851/">here</a>. The illustrated version was created by Rosie Burns of <a target="_BLANK" href="https://www.etsy.com/uk/shop/pompompaints">Pom Pom Paints</a>.
+
+The church was constructed on top of an older structure that was so massive it was mistaken for a natural hill: the Great Pyramid of Cholula. This is the largest known pyramid in the world, and was built up over thousands of years - the earliest structures dating back to the third century BCE.
+
+This practice of converting land, buildings, or established rituals from older religious traditions to newer ones is common in many different religions, but is rarely so vividly demonstrated.
+
+<div class="card mb-3" style="width: 25rem;">
+  <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Cholula_model.jpg" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Photo courtesy of <a target="_BLANK" href="https://commons.wikimedia.org/wiki/File:Cholula_model.jpg">Mhaesen</a><br><a target="_BLANK" href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>, via Wikimedia Commons</p>
+  </div>
+</div>
+
+You can find out more via the links below:
+
+* [Iglesia de Nuestra Señora de los Remedios, Cholula | Wikipedia](https://en.wikipedia.org/wiki/Iglesia_de_Nuestra_Se%C3%B1ora_de_los_Remedios,_Cholula)
+* [Great Pyramid of Cholula | Wikipedia](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)
+* [The giant pyramid hidden inside a mountain | BBC](http://www.bbc.com/future/story/20160812-the-giant-pyramid-hidden-inside-a-mountain)
 
 ### Who are we?
 The OCRS was founded in 2016 by Luke Burns.
 
 Luke is currently studying with the Open University for a degree in Humanities, with a focus on (you guessed it) religious studies. He lives in Somerset with his wife and pet degus.
 
-**This page was last updated: 2 November 2018**
+**This page was last updated: 5 November 2018**
