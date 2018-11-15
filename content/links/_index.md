@@ -142,4 +142,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.studyreligion.org/why/index.html">Why Study Religion (AAR)</a>
 * <a target="_BLANK" href="https://www.wisdomlib.org/">Wisdom Library</a>
 
-**This page was last updated: 2 November 2018**
+**This page was last updated: 15 November 2018**
