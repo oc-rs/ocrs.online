@@ -115,9 +115,10 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.woolf.cam.ac.uk/study/online-courses/jews-christians-and-muslims-in-europe-modern-challenges">Woolf Institute | Jews, Christians and Muslims in Europe: Modern Challenges</a>
 * <a target="_BLANK" href="https://www.woolf.cam.ac.uk/study/online-courses/religion-is">Woolf Institute | Religion is...</a>
 * <a target="_BLANK" href="https://www.woolf.cam.ac.uk/study/online-courses/representations-of-jewish-christian-relations-in-literature">Woolf Institute | Representations of Jewish-Christian Relations in Literature</a>
-* <a target="_BLANK" href="https://courses.yogicstudies.com/p/intro-course">Yogic Studies | An Introduction to the History and Philosophy of Yoga</a>
-* <a target="_BLANK" href="https://courses.yogicstudies.com/p/classical-yoga">Yogic Studies | Classical Yoga: The History, Philosophy, and Practice of the Yogasūtra</a>
-* <a target="_BLANK" href="https://courses.yogicstudies.com/p/free-yoga-history-lecture">Yogic Studies | Visual and Material Evidence of Medieval Yoga and Yogis</a>
+* <a target="_BLANK" href="https://www.yogicstudies.com/p/intro-course">Yogic Studies | An Introduction to the History and Philosophy of Yoga</a>
+* <a target="_BLANK" href="https://www.yogicstudies.com/p/classical-yoga">Yogic Studies | Classical Yoga: The History, Philosophy, and Practice of the Yogasūtra</a>
+* <a target="_BLANK" href="https://www.yogicstudies.com/p/sanskrit-101">Yogic Studies | Sanskrit for Yogis</a>
+* <a target="_BLANK" href="https://www.yogicstudies.com/p/free-visual-history">Yogic Studies | Visual and Material Evidence of Medieval Yoga and Yogis</a>
 
 ## Youtube Channels
 
@@ -142,4 +143,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.studyreligion.org/why/index.html">Why Study Religion (AAR)</a>
 * <a target="_BLANK" href="https://www.wisdomlib.org/">Wisdom Library</a>
 
-**This page was last updated: 15 November 2018**
+**This page was last updated: 20 November 2018**
