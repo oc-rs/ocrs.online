@@ -8,7 +8,7 @@ date: 2018-11-16
 author: Luke Burns
 description: In the centuries following the death of Muhammad, the Arabian peninsula was altered dramatically. The nomadic tribes, whose previous relationships had been mercurial, had become unified in a great empire, intended (at least by the devout) to reflect the great unity of Allah.
 
-image: https://oc-rs.org/img/muslim-kneeling-prayer.jpeg
+image: https://oc-rs.org/img/muslim-kneeling-prayer.jpg
 
 ---
 
