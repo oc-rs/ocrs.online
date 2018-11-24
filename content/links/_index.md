@@ -18,6 +18,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.bahai.us/">Bahá’ís of the United States</a>
 * <a target="_BLANK" href="http://bcsr.berkeley.edu/">Berkeley Center for the Study of Religion (BCSR)</a>
 * <a target="_BLANK" href="https://basr.ac.uk/">British Association for the Study of Religions (BASR)</a>
+* <a target="_BLANK" href="http://bschawaii.org/">Buddhist Study Center</a>
 * <a target="_BLANK" href="http://sites.cardiff.ac.uk/islamukcentre/">Centre for the Study of Islam in the UK</a>
 * <a target="_BLANK" href="https://cswr.hds.harvard.edu/">Center for the Study of World Religions</a>
 * <a target="_BLANK" href="http://www.cis.cam.ac.uk/">Centre of Islamic Studies</a>
