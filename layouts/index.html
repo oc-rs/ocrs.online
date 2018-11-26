@@ -39,20 +39,20 @@
 
           <div class="col-lg-4">
             <img class="rounded-circle" style="object-fit: cover;" src="img/wall_640.jpg" alt="men at wailing wall" width="140" height="140">
-            <h2>Online Courses</h2>
-            <p>These courses will take you from the basics of what a religion is (or isn't!), right through to a detailed exploration of the key faiths alive today.</p>
+            <h2>Study religion online</h2>
+            <p>Our courses will take you from the basics of what a religion is (or isn't!), right through to a detailed exploration of the key faiths alive today.</p>
             <p><a class="btn btn-ocrs" href="https://ocrs.thinkific.com/" role="button">Find out more &raquo;</a></p>
           </div>
 
           <div class="col-lg-4">
             <img class="rounded-circle" style="object-fit: cover;" src="img/ganesha-640.jpeg" alt="ganesha carving" width="140" height="140">
-            <h2>Free Resources</h2>
+            <h2>Free resources</h2>
             <p>Download free digital resources for personal use, or to assist in the classroom.</p>
             <p><a class="btn btn-ocrs" href="resources" role="button">Find out more &raquo;</a></p>
           </div>
         </div>
 
-        {{ range first 5 (where .Pages "Section" "blog") }}
+        {{ range first 3 (where .Pages "Section" "blog") }}
         <div class="row newsblock">
             <div class="col-md-7">
                 <a class="newslink" href="{{ .Permalink }}"><h2>{{ .Params.blogtitle }}</h2></a>
@@ -64,7 +64,9 @@
             </div>
         </div>
         {{ end }}
-
+        <div class="row newsblock">
+          <a class="newslink" href="/blog">Looking for more posts? Click here!</a>
+          </div>
       </div>
 
       <footer class="container-fluid">
