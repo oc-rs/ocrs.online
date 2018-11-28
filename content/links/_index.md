@@ -19,6 +19,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://bcsr.berkeley.edu/">Berkeley Center for the Study of Religion (BCSR)</a>
 * <a target="_BLANK" href="https://basr.ac.uk/">British Association for the Study of Religions (BASR)</a>
 * <a target="_BLANK" href="http://bschawaii.org/">Buddhist Study Center</a>
+* <a target="_BLANK" href="https://centerforcontemporarybuddhiststudies.wordpress.com/">Center for Contemporary Buddhist Studies</a>
 * <a target="_BLANK" href="http://sites.cardiff.ac.uk/islamukcentre/">Centre for the Study of Islam in the UK</a>
 * <a target="_BLANK" href="https://cswr.hds.harvard.edu/">Center for the Study of World Religions</a>
 * <a target="_BLANK" href="http://www.cis.cam.ac.uk/">Centre of Islamic Studies</a>
@@ -51,6 +52,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://sssreligion.org/">Society for the Scientific Study of Religion</a>
 * <a target="_BLANK" href="https://criticalreligion.org/">The Critical Religion Association</a>
 * <a target="_BLANK" href="https://www.issrnc.org/">The International Society for the Study of Religion, Nature, and Culture (ISSRNC)</a>
+* <a target="_BLANK" href="http://shiloh-project.group.shef.ac.uk/">The Shiloh Project</a>
 * <a target="_BLANK" href="https://ukabs.org.uk/">UK Association for Buddhist Studies (UKABS)</a>
 * <a target="_BLANK" href="http://wilmetteinstitute.org/">Wilmette Institute</a>
 * <a target="_BLANK" href="https://www.woolf.cam.ac.uk/">Woolf Institute</a>
@@ -61,6 +63,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.tandfonline.com/toc/cbre20/current">BJRE</a>
 * <a target="_BLANK" href="https://www.tandfonline.com/toc/rcar20/current">Culture and Religion</a>
 * <a target="_BLANK" href="https://journals.equinoxpub.com/index.php/JSRNC/index">Journal for the Study of Religion, Nature and Culture</a>
+* <a target="_BLANK" href="http://rerc-journal.tsd.ac.uk/index.php/religiousexp">Journal for the Study of Religious Experience</a>
 * <a target="_BLANK" href="https://bahai-studies.ca/publications/journal/">Journal of Bahá’í Studies</a>
 * <a target="_BLANK" href="http://jocbs.org/index.php/jocbs">Journal of the Oxford Centre for Buddhist Studies</a>
 * <a target="_BLANK" href="http://www.onreligion.co.uk/">On Religion</a>
@@ -97,6 +100,7 @@ description: 'Links to online resources'
 * <a target='_BLANK' href='https://ochsonline.org/product/god-in-bhagavad-gita/'>Oxford Centre for Hindu Studies | God in the Gita</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/hindu-temples/'>Oxford Centre for Hindu Studies | Hindu Temples</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/hinduism-sacred-sound-chant-music/'>Oxford Centre for Hindu Studies | Hinduism and Sacred Sound: Chant and Music</a>
+* <a target='_BLANK' href='https://ochsonline.org/product/history-of-yoga/'>Oxford Centre for Hindu Studies | History of Yoga</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/mahabharata-ramayana/'>Oxford Centre for Hindu Studies | India’s Epics: The Mahabharata and Ramayana</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/hindu-philosophy-vedanta-samkhya/'>Oxford Centre for Hindu Studies | Introduction to Hindu Philosophy-Vedanta and Samkhya</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/hinduism-history-text-philosophy/'>Oxford Centre for Hindu Studies | Introduction to Hinduism: History, Text, Philosophy</a>
@@ -104,6 +108,7 @@ description: 'Links to online resources'
 * <a target='_BLANK' href='https://ochsonline.org/product/yoga-philosophy/'>Oxford Centre for Hindu Studies | Philosophy of Yoga</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/sanskrit-level-1/'>Oxford Centre for Hindu Studies | Sanskrit: Level 1</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/sanskrit-level-2/'>Oxford Centre for Hindu Studies | Sanskrit: Level 2</a>
+* <a target='_BLANK' href='https://ochsonline.org/product/sanskrit-level-3/'>Oxford Centre for Hindu Studies | Sanskrit: Level 3</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/puranas/'>Oxford Centre for Hindu Studies | The Puranas</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/three-short-upanishad/'>Oxford Centre for Hindu Studies | Three Short Upanishads</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/vedas-upanishads/'>Oxford Centre for Hindu Studies | Vedas and Upanishads</a>
@@ -127,13 +132,12 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw">Religion For Breakfast</a>
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCjGxvI96evF5p5ty_Ggeppw?view_as=subscriber">The Study of Christianity</a>
 
-
-
 ## Resources, Projects, Articles
 
 * <a target="_BLANK" href="https://www.accesstoinsight.org/index.html">Access to Insight</a>
 * <a target="_BLANK" href="http://www.ayuryog.org/">AyurYog</a>
 * <a target="_BLANK" href="https://www.bbc.com/education/subjects/zb48q6f">BBC Bitesite Revision (GCSE Religious Studies)</a>
+* <a target="_BLANK" href="https://vedabase.io/en/">Bhaktivedanta Vedabase</a>
 * <a target="_BLANK" href="https://medium.com/religion-bites/decolonizing-the-study-of-religion-where-to-start-f8af41b3d34c">Decolonizing the Study of Religion: where to start?</a>
 * <a target="_BLANK" href="http://indology.info/">Indology</a>
 * <a target="_BLANK" href="http://www.sacred-texts.com/">Internet Sacred Text Archive</a>
@@ -144,4 +148,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.studyreligion.org/why/index.html">Why Study Religion (AAR)</a>
 * <a target="_BLANK" href="https://www.wisdomlib.org/">Wisdom Library</a>
 
-**This page was last updated: 20 November 2018**
+**This page was last updated: 28 November 2018**
