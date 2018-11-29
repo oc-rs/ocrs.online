@@ -24,4 +24,15 @@ The OCRS presents its website and associated pages 'as is'. We'll do our best to
 ## Language
 The OCRS is primarily written in English, however we are open to providing translations depending on demand and capacity. If this is something you would like to assist with, please [get in touch](/contact).
 
-**This page was last updated: 2 November 2018**
+## Refund and cancellation policy
+With regard to payment for OCRS online courses, you are entitled to a refund if you submit your refund request **within 14 days of the course opening** (i.e. from the date that your payment cleared and access to the course materials was granted).
+
+You can request a refund during this 14 day period for any reason.
+
+Requests submitted after 14 days will only be honoured in exceptional circumstances.
+
+To submit a refund request, just email [refunds@oc-rs.org](mailto:refunds@oc-rs.org) with your name and details, explaining the reason for your cancellation.
+
+Once you have requested a cancellation, you will no longer have access to course materials.
+
+**This page was last updated: 29 November 2018**
