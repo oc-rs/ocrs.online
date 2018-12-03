@@ -1,0 +1,79 @@
+---
+
+title: Freedom and faith - open source religion | Blog | The Online Centre for Religious Studies
+blogtitle: Freedom and faith - open source religion
+slug: freedom-and-faith-open-source-religion
+
+date: 2017-11-24
+author: Luke Burns
+description: Religion is often used as a by-word for rigid dogma and traditional patterns of behaviour, while open source is a technological term for freedom to examine, customise, and create without structure or restriction - however these different worlds actually have more in common than you might think.
+
+image: https://oc-rs.org/img/bible_640.jpeg
+
+---
+
+Religion is often used as a by-word for rigid dogma and traditional patterns of behaviour, while open source is a technological term for freedom to examine, customise, and create without structure or restriction - however these different worlds actually have more in common than you might think.
+
+The term ‘open source’ originates in the world of computer programming. It was <a href="https://opensource.org/history">coined in 1998</a> as part of an effort to promote the principles of collaborative development, and encourage businesses to share the source code for their projects.
+
+The benefits of this strategy go beyond the provision of free software for users (although this is a strong reason for its popularity); by allowing the entire world to examine and improve their work, organisations stand to benefit from improved products and better relations with consumers. It also makes the software more popular if users know that creators are not hiding anything from them, and ultimately they are free to make changes on their own system without incurring legal penalties.
+
+Where users encounter open source software that doesn’t quite fit the bill, they will often diverge from the main release by creating their own version - a process known as forking (fork as in road, not fork as in dinner). This empowers people to take control of their own software, and even the operating system that runs the software (for instance <a href="https://opensource.com/resources/linux">Linux</a>, an open source alternative to Windows and Mac). Just as in philosophy it’s important to explain the steps of an argument, and in mathematics it’s important to record your workings, in an open source project it’s essential that you provide the basic information for someone else to reproduce the end product.
+
+This approach to software has also had repercussions in other areas of life: and has been applied to politics, culture, and knowledge - the most obvious example is Wikipedia, which opens its encyclopedia to everyone, not only to read, but also to contribute, create new pages, and moderate existing ones.
+
+There are two underlying principles of the open source movement: **accessibility** (freedom to access the source code) and **flexibility** (freedom to change the source code).
+
+Many religions are well ahead of the game when it comes to making their foundations **accessible**, and will freely distribute copies of their sacred texts, and share their basic principles, key beliefs, and practical guidance online. However, there is undoubtedly resistance to freely **changing** these texts, and remixing principles and practices to suit the individual. It is difficult to reconcile the idea that the Qur’an is the perfect and absolute word of God with an approach that treats its truths as provisional, relative, and open to improvement.
+
+This tendency towards conservatism in religion is not universal, nor is it insurmountable - as the countless births of new religious traditions can attest. A notable example is the *The Life and Morals of Jesus of Nazareth*, created by American president Thomas Jefferson, who literally cut and paste the sections of the New Testament he found most appropriate and aligned to his own belief, asserting that theologians and priests had taken to ‘...sophisticating and perverting the simple doctrines [Jesus] taught…’ (<a href="http://www.sacred-texts.com/bib/jb/jb04.htm">sacred-texts.com</a>). Jefferson had no interest in the miraculous and metaphysical elements of the Gospels, and instead believed that Jesus was a man who preached a simple message of devotion to God and humility of spirit.
+
+Another example is the *Sri Guru Granth Sahib*, the holy scripture of the Sikhs, which was composed over several generations, building a corpus of recognised works by authors from a variety of religions and social groups - not just the Sikh Gurus themselves. This approach incorporated texts that aligned with the spirit and message of Sikhi, and could be understood therefore as authentic and spiritually worthwhile even if they sprang from different traditions.
+
+The *SGGS* was established as the final successor in the line of Gurus, and cannot be altered; it is treated no differently to a human Guru, and must be accorded the utmost reverence and respect (check out these videos from <a href="https://www.youtube.com/watch?v=BnDatrgIItU">Sikh Dharma International</a> and <a href="https://www.youtube.com/watch?v=h2LbTwwGsAY">BBC Teach</a> for a good introduction). To cut and paste a physical copy of this text, as Jefferson did to the Gospels, would not be acceptable.
+
+However, these material products of a religious culture are nonetheless available for all, and there are many viewpoints on whether this sacrality should limit how the texts are engaged with.  Artists such as Meg Hitchcock, have elevated cutting and pasting to an art form:
+
+>A Bible, in one example from the show, is cut up and the letters are turned into the Buddhist mantra, “om mani padme hum,” repeated 10,000 times. In this way, one text is transposed into another.
+(<a href="http://religionnews.com/2017/11/16/far-from-the-museum-of-the-bible-these-artists-use-the-good-book-as-their-medium/">Brent Rodriguez-Plate, 2017</a>)
+
+A more fluid interpretation of scripture can be found in the Religious Society of Friends (Quakers), who constantly refine and develop their own so-called Book of Discipline, and incorporate historical quotations they deem useful or meaningful, alongside passages that are decided within the organisation at yearly meetings. Different countries produce their own variants - for instance in Britain the book is called *Quaker Faith & Practice* and is currently in its fifth edition - you can read a <a href="http://qfp.quaker.org.uk/introduction/">digital version online for free</a>. Quakers also take a more flexible approach to worship; there is no clergy, priest, or holy person who leads the congregation, instead all members gather in silence, and are free to contribute verbally if they feel inspired to do so. Again, we can see echoes of the open source ethos.
+
+Like the Quakers, many religions have attempted to make their texts available online, to improve accessibility and ensure that adherents can investigate the 'source code’ for themselves. Some notable examples include:
+
+* <a href="https://www.accesstoinsight.org/tipitaka/index.html">Access to Insight's copy of the Pali Canon</a>
+* <a href="https://quran.com/">This digital copy of the Qur'an, including the original Arabic text and multiple English translations</a>
+* <a href="https://www.biblegateway.com/">Biblegateway, providing multiple translations in world languages, and study support</a>
+* <a href="http://www.witchology.com/contents/opensourcewicca/gardnerianindex.php">Witchology's copy of Open Source Wicca: The Gardnerian Tradition</a>
+* <a href="https://suttacentral.net/">Early Buddhist texts in their original languages, plus English translations at SuttaCentral</a>
+* <a href="https://www.searchgurbani.com/guru-granth-sahib/ang-by-ang">Original text, transliteration, and English translation of the Sri Guru Granth Sahib</a>
+* <a href="https://www.vedabase.com/">The Bhaktivedanta Vedabase provides English translations of many Hindu Vaishnava texts</a>
+
+In addition to this, the non-denominational <a href="http://sacred-texts.com/">sacred-texts.com</a> makes many religious and spiritual writings available free of charge. This availability has increased the ease of access in a similar fashion to the first printing presses; it is now much easier to read the Bible, Qur’an, or Dhammapada. This is certainly of great benefit to both religious practice and study. It has facilitated easier searching for specific passages or topics, since every word can be searched near-instantaneously, it is no longer necessary to leaf through indexes or investigate irrelevant pages. A half-remembered quotation can be entered into Google, and return the result immediately.
+
+However, there may be a corresponding loss of sensitivity to the reality of the text without a physical representation that can be touched (or not touched). It is more difficult to reverentially approach a webpage, open and close it carefully, and give it pride of place at a shrine or place of worship. Books are also universally recognised, requiring no operating system or file configuration to read, and scrolls that are thousands of years old are still decipherable.
+
+Of course, religion is more than just texts; religion is architecture, posture, aroma, feelings, sounds, food, song, dance, meaning and purpose, danger and mystery, passion and love. It does not begin and end between the covers of a book. There are practices and ways of life that bring the sacred into the material world and provide meaning to adherents. Religions hinge on the idea that transformative experiences and encounters with the divine are possible by following prescribed steps. Whether the experience comes during life or after it, we are nonetheless promised that one practice or another will bring us into alignment with the absolute, and expose us to the supramundane.
+
+The routes to these encounters are as varied as the individuals who follow them, and include contemplation, prayer, entheogens, meditation, austerities, yoga, and service to others (to name a few). One way to view these practices is as cultural artefacts, set like immovable gems within the traditions that discovered and developed them. From this perspective, to blend yoga with Wicca, or the eucharist with fire worship, is at best misinformed appropriation, at worst theft.
+
+However, a more cosmopolitan perspective may situate these traditions in a broader human context, and see them - much like medical theories and political systems - as open to collaborative efforts to experiment, incorporate, and take ownership of. In a society that has taken information sharing to colossal extremes via the internet, some might take the view that spiritual techniques should be free to individuals not just in the financial sense, but in the sense of liberty.
+
+An example of a religion that attempts to follow this line of thought is Yoism, which finds meaning in the communal search for truth, and uses what they call the Open Source Truth Process to arrive at religious meaning, and incorporates practices and traditions that Yoans find to have personal significance.
+
+>Yo is a Living Religion whose core writings will evolve over time as people from all over the world provide input and improvements. Not only do we believe the collaboration and combined insights of all the members allow for a more intelligent and deep religious vision, we also believe that the process itself is inherently beautiful and spiritual.
+(<a href="http://www.yoism.org/?q=node/38">yoism.org</a>)
+
+The vast knowledge available about spiritual traditions around the world is empowering, yet also daunting; while there is great potential for new religions to arise - like Yoism - that incorporate their own preferred doctrines and techniques, there are rarely local communities and established organisations to provide support and guidance to newcomers.
+
+There are also legitimate concerns that this attitude towards culture and religion is an enduring form of imperialism; it may be inappropriate to cherry-pick religious practices as though they did not emerge out of a foreign history - particularly if that foreign culture was subjugated by one’s own. In addition, <a href="http://www.patheos.com/blogs/suspendedinherjar/2016/04/cultural-appropriation-is-real-and-it-is-a-religious-issue/">these traditions can easily be misunderstood and misused if taken out of the culture that engendered them</a>.
+
+There are two responses to this - the first (weaker of the  two) is that the history of religion <b>is</b> the history of religious innovation, collaboration, and syncretism. Like all human endeavours, these colossal cultural constructions do not emerge from a vacuum - they are part of an ongoing narrative between (often competing) people. If there is a quintessential religious impulse, it is transcultural. In other words, there is no sense in trying to stop people from sharing ideas, even if they do so in a haphazard or disrespectful way.
+
+The second response is a product of the same technological process that created open source - the creative commons licence.
+
+Though designed for navigating the difficult ground of copyright law, these licences can nonetheless inspire us to consider how to treat units of religious practice and theory (if such a thing can be abstracted). The <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International licence</a> provides permission for users to share the licenced material and make changes, even to profit from doing so, but they must preserve the licence, and attribute the original author of the work.
+
+If we apply this logic to the use of religious theory and practice, we can see that an open source approach would be able to incorporate such religious entities, whilst also maintaining clear roots back into the traditions from which they emerged. This tactic may find increasing favour with those in Western nations who find difficulty subscribing to a single religion, yet who are not atheistic or opposed to spirituality - so-called <a href="http://www.pewforum.org/2012/10/09/nones-on-the-rise/">‘religious nones’ and the related group of ‘spiritual but not religious’</a>.
+
+The well known scriptures of the world are sealed by their respective traditions and authorities - however it is not fair to say that people have never challenged this traditionalism, and there have been many religions that developed by customising their existing canon, welcoming new practices, and taking a more flexible approach to engaging with the divine. In many ways, the religious world has moved towards an open source approach, making itself available, accountable, and engaging directly with the individual - yet there is room for those religiously unaffiliated to take this further, and perhaps build a new way of engaging with spirituality that does not disrespect the cultural origins of its antecedents, but is not bound to it either.
