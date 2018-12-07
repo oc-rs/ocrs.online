@@ -18,6 +18,9 @@ This focus on the material realities, practical considerations, and legalistic c
 
 The name 'Sufi' itself is possibly derived from the Arabic word for wool (*suf*), in reference to the coarse wool clothing that early Muslim ascetics wore. Their approach aimed to unify the exterior shari’a (guidelines for living) with an internal experience of the divine truth (*haqiqa*) of Islam, by following a unique path (*tariqa*) of spiritual focus.
 
+<a target="_BLANK" style="color: white" href="https://signup.oc-rs.org/how-to-study-religion"><div class="container mb-3 p-3" style="background-color: #951515">
+Interested in learning the basics of religious studies? Click here to join our free email course: How to Study Religion </div></a>
+
 These spiritual techniques, in common with many other mystical traditions, included postures and breathing exercises, as well as recitation of the names of God. These were all intended to bring about a shift in consciousness that hinged on constant remembrance (*dhikr*) of Allah.
 
 By taking God’s name into their heart through repetition of phrases such as *La ilaha ilallah* and *Allahu Akbar*, Sufis (and mainstream Muslims) aim to recognise their relationship to their creator; a relationship both of unity and also profound distinction. In some ways, this approach mirrors the wearing of *tefillin* by Jews, who follow the commandment to “...put these words of mine on your heart and on your soul…” (Deuteronomy 11:18) as an act of remembrance. The repetition of a word or phrase is also found in Hindu and Buddhist traditions, where it is called a *mantra*.
