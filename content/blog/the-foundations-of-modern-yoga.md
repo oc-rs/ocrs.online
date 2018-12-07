@@ -19,6 +19,9 @@ In Western nations such as the United Kingdom, it's more likely to be found in h
 
 It's clear that although yoga has not lost its place within the broader context of Indian spiritual thought, it has nonetheless become increasingly secular; viewed as an alternative therapy or fitness regimen, rather than a route to spiritual salvation.
 
+<a target="_BLANK" style="color: white" href="https://signup.oc-rs.org/how-to-study-religion"><div class="container mb-3 p-3" style="background-color: #951515">
+Interested in learning the basics of religious studies? Click here to join our free email course: How to Study Religion </div></a>
+
 Even among those who pursue a spiritual goal through Yoga, the emphasis is less on converting to Hinduism, and more on the attainment of personal experience. This should not surprise us, as Linda Woodhead notes, within the United Kingdom, “...a majority have become increasingly hostile or indifferent to institutional forms of religion, whilst remaining open to faith, a spiritual realm, or just ‘something more.’” (Woodhead, 2013)
 
 We can see that this modern form of Yoga is a product of religious and cultural evolution over a period of more than two thousand years, and draws influence not only from the Indian subcontinent, but also the broader political and philosophical background of the Western hemisphere. Although yoga today shares its name with the introspective practices described in the Mahabharata, it's no longer the same system of thought and no longer the same method of practice. Therefore it's perhaps inaccurate to claim that modern yoga represents a combination of historical antecedents, if by this we understand a blind collision of Tantric ideas and Samkhya principles.

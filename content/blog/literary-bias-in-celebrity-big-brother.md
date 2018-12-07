@@ -38,6 +38,9 @@ On a recent episode of Celebrity Big Brother in the UK, two contestants were hav
 
 Whilst we can appreciate that much of Kirstie's speech was aimed at deflecting a conversation she clearly did not want to have in public, some of the points raised certainly bear examination.
 
+<a target="_BLANK" style="color: white" href="https://signup.oc-rs.org/how-to-study-religion"><div class="container mb-3 p-3" style="background-color: #951515">
+Interested in learning the basics of religious studies? Click here to join our free email course: How to Study Religion </div></a>
+
 The idea that it is possible to understand a religion (and by extension, the beliefs and practices of a religious person) by reading its written texts, especially its scripture, is misleading at best.
 
 Religious people draw inspiration from religious texts, this is fairly uncontroversial, but no religious text exists in a perfect bubble of meaning. Every text must be read and interpreted in the light of its prevailing culture, which includes additional ideas, interpretations, and perspectives.

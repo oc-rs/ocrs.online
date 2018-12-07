@@ -35,6 +35,9 @@ This collapse of the hierarchies happens often in the teaching of religion becau
 
 <div><img class="py-3" style="width: 100%" src="/img/hindu-sculpture.jpg"/></div>
 
+<a target="_BLANK" style="color: white" href="https://signup.oc-rs.org/how-to-study-religion"><div class="container mb-3 p-3" style="background-color: #951515">
+Interested in learning the basics of religious studies? Click here to join our free email course: How to Study Religion </div></a>
+
 So, people learn what Christians <em>generally</em> believe and <em>usually</em> practice. The same goes for Muslims, Hindus, and any other 'top level' religious tradition (top level only in the sense of this family tree model).
 
 There's a danger here - so frequently encountered that it's got its own name: the <strong>world religions paradigm</strong>.
