@@ -19,8 +19,8 @@ In Western nations such as the United Kingdom, it's more likely to be found in h
 
 It's clear that although yoga has not lost its place within the broader context of Indian spiritual thought, it has nonetheless become increasingly secular; viewed as an alternative therapy or fitness regimen, rather than a route to spiritual salvation.
 
-<a target="_BLANK" style="color: white" href="https://signup.oc-rs.org/how-to-study-religion"><div class="container mb-3 p-3" style="background-color: #951515">
-Interested in learning the basics of religious studies? Click here to join our free email course: How to Study Religion </div></a>
+<a target="_BLANK" style="color: white" href="https://courses.oc-rs.org/courses/how-to-study-religion"><div class="container mb-3 p-3" style="background-color: #951515">
+Interested in learning the basics of religious studies? Click here to join our free online course: How to Study Religion </div></a>
 
 Even among those who pursue a spiritual goal through Yoga, the emphasis is less on converting to Hinduism, and more on the attainment of personal experience. This should not surprise us, as Linda Woodhead notes, within the United Kingdom, “...a majority have become increasingly hostile or indifferent to institutional forms of religion, whilst remaining open to faith, a spiritual realm, or just ‘something more.’” (Woodhead, 2013)
 
@@ -118,3 +118,18 @@ Hence, yoga is not confused by these amalgamations of philosophies, but enriched
 * Doniger, W (2010) <em>The Hindus: an Alternative History,</em>Oxford: OUP
 * Mascaro, J (1962) <em>The Bhagavad Gita</em>, London: Penguin Books
 * Mascaro, J (1965) <em>The Upanishads, </em>London: Penguin Books
+
+<hr>
+
+<div class="card m-3 p-3">
+<div class="row">
+    <div class="col-sm-4" style="border-right: 1px solid grey">
+        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
+    </div>
+    <div class="col-sm-8">
+        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
+        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
+        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
+    </div>
+</div>
+</div>
