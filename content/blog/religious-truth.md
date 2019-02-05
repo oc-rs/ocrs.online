@@ -8,7 +8,7 @@ date: 2018-12-05
 author: Luke Burns
 description: As practitioners of religious studies, academics are advised against investigating the truth claims of different religious traditions - it's one of those awkward subjects that cannot be reliably studied (hence the ongoing difficulties integrating scientific empiricism with religious accounts of the world). 
 
-image: https://oc-rs.org/img/temple-hills.jpg
+image: temple-hills.jpg
 
 ---
 

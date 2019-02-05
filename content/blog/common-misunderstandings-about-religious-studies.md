@@ -8,7 +8,7 @@ date: 2018-12-20
 author: Luke Burns
 description: Religious studies is the academic study of religion, this means that it involves careful and critical investigation, sympathetic understanding, and balanced opinions. However, there are plenty of misunderstandings about what religious studies means, or what it involves. Here are some of the 'myths' that we've encountered...
 
-image: https://oc-rs.org/img/laos-painting.jpg
+image: laos-painting.jpg
 
 ---
 

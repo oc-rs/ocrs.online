@@ -8,7 +8,7 @@ date: 2018-07-19
 author: Luke Burns
 description: There are, broadly speaking, two ways to approach religion as an academic subject. The first is based on a sort of family tree model; it looks a bit like this.
 
-image: https://oc-rs.org/img/hindu-sculpture.jpg
+image: hindu-sculpture.jpg
 
 ---
 There are, broadly speaking, two ways to approach religion as an academic subject.

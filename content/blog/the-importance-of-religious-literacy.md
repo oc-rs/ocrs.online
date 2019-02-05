@@ -8,7 +8,7 @@ date: 2017-11-08
 author: Luke Burns
 description: Religion impacts many aspects of our lives, and religious events are all around us, both positive and negative. Over the last few years, the idea of improving religious literacy has been gaining ground...
 
-image: https://oc-rs.org/img/jesus-statue.jpg
+image: jesus-statue.jpg
 
 ---
 

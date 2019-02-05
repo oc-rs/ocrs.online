@@ -8,7 +8,7 @@ date: 2017-11-24
 author: Luke Burns
 description: Religion is often used as a by-word for rigid dogma and traditional patterns of behaviour, while open source is a technological term for freedom to examine, customise, and create without structure or restriction - however these different worlds actually have more in common than you might think.
 
-image: https://oc-rs.org/img/bible_640.jpeg
+image: bible_640.jpeg
 
 ---
 

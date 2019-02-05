@@ -8,7 +8,7 @@ date: 2018-12-07
 author: Luke Burns
 description: We're naturally curious about the world around us, and are drawn to things we find interesting; all of us will learn about something in our free time. It might be a new skill like crochet, web development, tennis, or horse riding; it might be the ins and outs of celebrity lives, footballer statistics, or political intrigue; and it might be an academic subject like geology, history, or... religious studies.
 
-image: https://oc-rs.org/img/guardian-deity_640.jpg
+image: guardian-deity_640.jpg
 
 ---
 
