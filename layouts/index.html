@@ -43,14 +43,14 @@
           </div>
 
           <div class="col-lg-4">
-            <img class="rounded-circle" style="object-fit: cover;" src="img/wall_640.jpg" alt="men at wailing wall" width="140" height="140">
+            <img class="rounded-circle" style="object-fit: cover;" src="/img/wall_640.jpg" alt="men at wailing wall" width="140" height="140">
             <h2>Study religion online</h2>
             <p>Our courses will take you from the basics of what a religion is (or isn't!), right through to a detailed exploration of the key faiths alive today.</p>
             <p><a class="btn btn-ocrs" href="https://ocrs.thinkific.com/" role="button">Find out more &raquo;</a></p>
           </div>
 
           <div class="col-lg-4">
-            <img class="rounded-circle" style="object-fit: cover;" src="img/ganesha-640.jpeg" alt="ganesha carving" width="140" height="140">
+            <img class="rounded-circle" style="object-fit: cover;" src="/img/ganesha-640.jpeg" alt="ganesha carving" width="140" height="140">
             <h2>Free resources</h2>
             <p>Download free digital resources for personal use, or to assist in the classroom.</p>
             <p><a class="btn btn-ocrs" href="resources" role="button">Find out more &raquo;</a></p>
@@ -65,7 +65,7 @@
                 <p>{{ .Summary }}</p>
             </div>
             <div class="col-md-5">
-                <a class="newslink" href="{{ .Permalink }}"><img class="featurette-image img-fluid mx-auto" src="{{ .Params.image }}"></a>
+                <a class="newslink" href="{{ .Permalink }}"><img class="featurette-image img-fluid mx-auto" src="/img/{{ .Params.image }}"></a>
             </div>
         </div>
         {{ end }}
