@@ -1,3 +1,4 @@
+disqusShortname = "ocrs"
 baseURL = "https://oc-rs.org/"
 languageCode = "en-gb"
 [permalinks]
