@@ -113,6 +113,7 @@ description: 'Links to online resources'
 * <a target='_BLANK' href='https://ochsonline.org/product/three-short-upanishad/'>Oxford Centre for Hindu Studies | Three Short Upanishads</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/vedas-upanishads/'>Oxford Centre for Hindu Studies | Vedas and Upanishads</a>
 * <a target='_BLANK' href='https://www.edx.org/course/religion-hip-hop-culture-ricex-reli157x'>Rice University | Religion and Hip Hop Culture</a>
+* <a target="_BLANK" href="www.open.edu/openlearn/history-the-arts/culture/religious-studies/studying-religion/content-section-0">The Open University | Studying religion</a>
 * <a target='_BLANK' href='https://www.edx.org/course/the-science-of-religion'>The University of British Columbia | The Science of Religion</a>
 * <a target='_BLANK' href='https://www.futurelearn.com/courses/religion-and-conflict'>University of Groningen | Religion and Conflict</a>
 * <a target='_BLANK' href='https://www.conted.ox.ac.uk/courses/introduction-to-world-religions-online'>University of Oxford | Introduction to World Religions</a>

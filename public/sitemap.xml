@@ -79,6 +79,10 @@
   </url>
   
   <url>
+    <loc>https://oc-rs.org/methods/</loc>
+  </url>
+  
+  <url>
     <loc>https://oc-rs.org/courses/</loc>
   </url>
   
@@ -88,6 +92,10 @@
   
   <url>
     <loc>https://oc-rs.org/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://oc-rs.org/scholars/</loc>
   </url>
   
   <url>
@@ -102,6 +110,10 @@
   <url>
     <loc>https://oc-rs.org/</loc>
     <lastmod>2019-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oc-rs.org/theories/</loc>
   </url>
   
 </urlset>
