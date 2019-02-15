@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://trusting-kowalevski-bfe3cc.netlify.com/* http://www.oc-rs.org/:splat 301!
