@@ -10,11 +10,17 @@
     </header>
 
     <main role="main">
-        <img src="/img/mountain.jpeg" class="smallbanner">
+        <img src="/img/{{ .Params.image }}" class="smallbanner">
         <div class="container">
             <div class="row mt-3">
                 <div class="col-sm">
                     {{ .Content }}
+
+                    <a href="/contact"><div class="card text-white bg-info mb-3">
+                        <div class="card-body">
+                          <p class="card-text">We are now accepting submissions for blog posts. Fancy writing for the OCRS? Click here to get in touch!</p>
+                        </div>
+                      </div></a>
 
                     {{ range .Pages }}
                     <div class="row newsblock">

@@ -1,6 +1,6 @@
 ---
 title: 'Blog | The Online Centre for Religious Studies'
-image: 'https://oc-rs.org/img/mountain_640.jpeg'
+image: 'mountain.jpeg'
 description: 'Articles, news, and updates from the OCRS'
 ---
 # Blog

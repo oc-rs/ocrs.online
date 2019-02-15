@@ -1,6 +1,6 @@
 ---
 title: 'Terms and Conditions | The Online Centre for Religious Studies'
-image: 'https://oc-rs.org/img/mountain_640.jpeg'
+image: 'mountain.jpeg'
 description: 'The OCRS terms and conditions of use'
 ---
 # Terms and Conditions

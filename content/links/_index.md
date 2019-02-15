@@ -1,6 +1,6 @@
 ---
 title: 'Links | The Online Centre for Religious Studies'
-image: 'https://oc-rs.org/img/mountain_640.jpeg'
+image: 'buddha-statue.jpg'
 description: 'Links to online resources'
 ---
 # Links
