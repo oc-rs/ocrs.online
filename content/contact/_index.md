@@ -21,18 +21,18 @@ You can reach us at <a href="mailto:info@oc-rs.org">info@oc-rs.org</a>, or find 
 
   <div class="form-group">
     <label for="inputName">Your name</label>
-    <input type="text" class="form-control" id="inputName" placeholder="Your name">
+    <input type="text" name="name" class="form-control" id="inputName" placeholder="Your name">
   </div>
 
   <div class="form-group">
     <label for="inputEmail">Email address</label>
-    <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Your email">
+    <input type="email" name="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Your email">
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else</small>
   </div>
 
   <div class="form-group">
     <label for="inputMessage">Message</label>
-    <textarea class="form-control" id="inputMessage" placeholder="Your message"> </textarea>
+    <textarea class="form-control" name="message" id="inputMessage" placeholder="Your message"> </textarea>
   </div>
 
   <button type="submit" class="btn btn-primary">Send</button>
