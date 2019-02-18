@@ -73,7 +73,7 @@ Led by Richard Gombrich and Alexander Wynne, the <a target="_BLANK" href="">Oxfo
 * <a target="_BLANK" href="https://www.ocbs-courses.org/catalogue/online-course/pali-level-3/">Pāli Level 3</a>
 
 # Sanskrit
-Let's start with Sanskrit, an ancient Indian language, used for composing sacred texts and preserved by the priestly class of Brahmins. Many Hindu and Buddhist texts have been recorded in Sanskrit, including the Bhagavad Gita (itself part of the epic <a target="_BLANK" href="https://en.wikipedia.org/wiki/Mahabharata">Mahabharata</a>). Recently there have been a few different online courses published to help students learn this language.
+An ancient Indian language, Sanskrit was used for composing sacred texts and preserved by the priestly class of Brahmins. Many Hindu and Buddhist texts have been recorded in Sanskrit, including the Bhagavad Gita (itself part of the epic <a target="_BLANK" href="https://en.wikipedia.org/wiki/Mahabharata">Mahabharata</a>). Recently there have been a few different online courses published to help students learn this language.
 
 ## The Oxford Centre for Hindu Studies
 Leading the way is the <a target="_BLANK" href="https://ochs.org.uk">Oxford Centre for Hindu Studies</a>, who in April 2018 launched their initial online Sanskrit course; it's proved popular and they now offer levels 2 - 4 (level 1 is not currently available, but will be offered again in July).
