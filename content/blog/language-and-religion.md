@@ -6,7 +6,7 @@ slug: language-and-religion
 
 date: 2019-02-18
 author: Luke Burns
-description: 
+description: If you want to learn about religious practices, philosophical concepts, or ways of living, you will almost certainly begin by looking for resources in your native language - this is the easiest way to engage with new ideas, and the quickest way to get an overview. Most religious principles and practices can be explained in any language with a reasonable degree of accuracy - but what if you want to learn more?
 
 image: bhagavad-gita-arabic.jpg
 
