@@ -33,5 +33,10 @@
               <a class="nav-link" href="/scholars/">Scholars</a>
             </li>
           </ul>
+          <form action="{{ "search" | absURL }}">
+            <div class="form-group mb-0">
+              <input class="form-control" id="search-query" placeholder="Search..." name="s"/>
+            </div>
+          </form>
         </div>
       </nav>

@@ -2,24 +2,24 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-<meta name="title" content="404 Page not found">
+<meta name="title" content="Search Results">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="">
 <meta name="robots" content="index,follow">
 <meta name="theme-color" content="#921515">
 
-<meta property="og:title" content="404 Page not found" />
+<meta property="og:title" content="Search Results" />
 <meta property="og:type" content="website" />
-<meta property="og:image" content="https://oc-rs.org/img/" />
+<meta property="og:image" content="https://oc-rs.org/img/torii_1280.jpg" />
 <meta property="og:description" content="">
 <meta property="og:site_name" content="The Online Centre for Religious Studies">
 <meta property="og:locale" content="en_GB">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@_ocrs_">
-<meta name="twitter:title" content="404 Page not found">
+<meta name="twitter:title" content="Search Results">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://oc-rs.org/img/">
+<meta name="twitter:image" content="https://oc-rs.org/img/torii_1280.jpg">
 
 <link rel="icon" type="image/png" href="/img/favicon.ico.png">
 
@@ -45,7 +45,7 @@ window.cookieconsent.initialise({
 })});
 </script>
 
-<title>404 Page not found</title>
+<title>Search Results</title>
   </head>
 
   <body>
@@ -95,11 +95,29 @@ window.cookieconsent.initialise({
     </header>
 
     <main role="main">
-        <img src="/img/mountain.jpeg" class="smallbanner">
+        <img src="/img/torii_1280.jpg" class="smallbanner">
         <div class="container">
             <div class="row mt-3">
                 <div class="col-sm">
-                    <h1>Hmm... looks like that page has been moved or deleted, sorry!</h1>
+                    <section class="resume-section p-3 p-lg-5 d-flex flex-column">
+                        <div class="my-auto" >
+                            <form action="https://oc-rs.org/search">
+                            <input id="search-query" placeholder="Search again..." name="s"/>
+                            </form>
+                            <div id="search-results">
+                            <h3>Matching pages</h3>
+                            </div>
+                        </div>
+                    </section>
+                        
+                    <script id="search-result-template" type="text/x-js-template">
+                        <div id="summary-${key}">
+                        <h4><a href="${link}">${title}</a></h4>
+                        <p>${snippet}</p>
+                        ${ isset tags }<p>Tags: ${tags}</p>${ end }
+                        ${ isset categories }<p>Categories: ${categories}</p>${ end }
+                        </div>
+                    </script>                      
                 </div>
             </div>
           </div>
@@ -138,6 +156,9 @@ window.cookieconsent.initialise({
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="/js/bootstrap.min.js"></script>  
-    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+    <script src="https://oc-rs.org/js/search.js"></script>    
     </body>
 </html>

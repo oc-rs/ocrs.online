@@ -96,6 +96,11 @@
   </url>
   
   <url>
+    <loc>https://oc-rs.org/search/</loc>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
     <loc>https://oc-rs.org/tags/</loc>
     <priority>0</priority>
   </url>
