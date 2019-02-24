@@ -54,3 +54,20 @@ After the comprehensive attempt to solicit evidence, ideas, and feedback - to dr
 You can read his letter here: [page 1](https://www.religiouseducationcouncil.org.uk/wp-content/uploads/2018/12/Letter-to-The-Very-Reverend-Doctor-John-Hall-from-Rt-Hon-Damian-Hinds-MP...-1.jpg) [page 2](https://www.religiouseducationcouncil.org.uk/wp-content/uploads/2018/12/Letter-to-The-Very-Reverend-Doctor-John-Hall-from-Rt-Hon-Damian-Hinds-MP...-2.jpg)
 
 This is disappointing, but not the end of the story. It's clear that in the UK there is a strong and passionate effort to improve the delivery and standards of religious literacy, whether that is achieved through Religious Education, Religion and Worldviews, or Religious Studies. At the OCRS we applaud this effort, and support the direction that the CoRE and other organisations are attempting to steer RE towards.
+
+You can read a [range of new blog posts over at RE:Online](http://www.reonline.org.uk/supporting/re-matters/?term=commission-on-religious-education&taxonomy=news-tags) about the CoRE's proposals.
+
+<hr>
+
+<div class="card m-3 p-3">
+<div class="row">
+    <div class="col-sm-4" style="border-right: 1px solid grey">
+        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
+    </div>
+    <div class="col-sm-8">
+        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
+        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
+        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
+    </div>
+</div>
+</div>
