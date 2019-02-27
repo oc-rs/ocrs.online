@@ -5,7 +5,7 @@
 ## Summary
 This repo provides the core website code required for the 2018 redesign of the OCRS website.
 
-![Screenshot of OCRS homepage](/img/homepage.png)
+![Screenshot of OCRS homepage](static/img/homepage.png)
 
 ## Contributing
 If you would like to provide learning materials or get involved with writing for the OCRS, please [get in touch](https://oc-rs.org/contact/).
