@@ -5,6 +5,12 @@
 ## Summary
 This repo provides the core website code required for the 2018 redesign of the OCRS website.
 
-As of 2 November 2018, the site is now built using the Hugo static site generator.
+![Screenshot of OCRS homepage](/img/homepage.png)
 
-As of 15 February 2019, the site is deployed via Netlify.
+## Contributing
+If you would like to provide learning materials or get involved with writing for the OCRS, please [get in touch](https://oc-rs.org/contact/).
+
+## Dependencies
+The site is built using the [Hugo static site generator](https://gohugo.io/) and is deployed via [Netlify](https://netlify.com).
+
+The search function is provided via [this gist](https://gist.github.com/eddiewebb/735feb48f50f0ddd65ae5606a1cb41ae) (which in turn makes use of [jquery](https://jquery.com/), [fuse.js](https://fusejs.io/), and [mark.js](https://markjs.io/)).
