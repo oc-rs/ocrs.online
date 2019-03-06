@@ -183,7 +183,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.natre.org.uk/">National Association of Teachers of Religious Education (NATRE)</a>
 * <a target="_BLANK" href="https://www.religiouseducationcouncil.org.uk/">Religious Education Council of England and Wales</a>
 * <a target="_BLANK" href="http://www.reonline.org.uk/">RE:Online</a>
-* <a target="_BLANK" href="https://www.teachre.co.uk">TEACH:RE</a>
+* <a target="_BLANK" href="https://www.teachre.co.uk">Teach:RE</a>
 
 
 **This page was last updated: 06 March 2019**
