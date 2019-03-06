@@ -43,7 +43,7 @@ description: 'Links to online resources'
 
 ## I want to watch...
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCGAuRL71dTSCI2IAT-pGA3A">BahaiTeachings.org (channel)</a>
-* <a target="_BLANK" href="https://www.youtube.com/user/berkleycenter">Berkley Center for Religion, Peace &amp; World Affairs</a>
+* <a target="_BLANK" href="https://www.youtube.com/user/berkleycenter">Berkley Center for Religion, Peace &amp; World Affairs (channel)</a>
 * <a target="_BLANK" href="https://www.youtube.com/watch?v=e-UnDWmpyAs">Does religious unbelief exist? | Dr Lois Lee | Think Kent (video)</a>
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCZaj79Suz--Lo0Oki_pX3DA">Faculty of Theology and Religion Oxford (channel)</a>
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCGAuRL71dTSCI2IAT-pGA3A">FROGBEAR Project (channel)</a>
@@ -55,7 +55,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw">Religion For Breakfast (channel)</a>
 * <a target="_BLANK" href="https://www.youtube.com/playlist?list=PLcvEcrsF_9zIQm-KPGujuZkNRk_jTcehV">Religions of the World (playlist)</a>
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCjGxvI96evF5p5ty_Ggeppw?view_as=subscriber">The Study of Christianity (channel)</a>
-* <a target="_BLANK" href="https://www.youtube.com/playlist?list=PLMCt15e8gG-j3nRRZlmhltadY8XDn4KAH">World Religions (playlist)
+* <a target="_BLANK" href="https://www.youtube.com/playlist?list=PLMCt15e8gG-j3nRRZlmhltadY8XDn4KAH">World Religions (playlist)</a>
 
 
 ## I want to listen...
@@ -183,6 +183,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.natre.org.uk/">National Association of Teachers of Religious Education (NATRE)</a>
 * <a target="_BLANK" href="https://www.religiouseducationcouncil.org.uk/">Religious Education Council of England and Wales</a>
 * <a target="_BLANK" href="http://www.reonline.org.uk/">RE:Online</a>
+* <a target="_BLANK" href="https://www.teachre.co.uk">TEACH:RE</a>
 
 
 **This page was last updated: 06 March 2019**
