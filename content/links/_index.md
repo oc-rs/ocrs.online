@@ -42,15 +42,28 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://religion.ua.edu/links/studying-religion-in-culture/">Studying Religion in Culture</a>
 
 ## I want to watch...
-* <a target="_BLANK" href="https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g">Let's Talk Religion</a>
-* <a target="_BLANK" href="https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw">Religion For Breakfast</a>
-* <a target="_BLANK" href="https://www.youtube.com/channel/UCjGxvI96evF5p5ty_Ggeppw?view_as=subscriber">The Study of Christianity</a>
+* <a target="_BLANK" href="https://www.youtube.com/channel/UCGAuRL71dTSCI2IAT-pGA3A">BahaiTeachings.org (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/user/berkleycenter">Berkley Center for Religion, Peace &amp; World Affairs</a>
+* <a target="_BLANK" href="https://www.youtube.com/watch?v=e-UnDWmpyAs">Does religious unbelief exist? | Dr Lois Lee | Think Kent (video)</a>
+* <a target="_BLANK" href="https://www.youtube.com/channel/UCZaj79Suz--Lo0Oki_pX3DA">Faculty of Theology and Religion Oxford (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/channel/UCGAuRL71dTSCI2IAT-pGA3A">FROGBEAR Project (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/user/HarvardDivinity">Harvard Divinity School (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g">Let's Talk Religion (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/channel/UCznJ7Xzb2FvfwnAUp-8H5eA">Oxford Centre for Buddhist Studies (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/user/HinduStudies">Oxford Centre for Hindu Studies (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/playlist?list=PLcvEcrsF_9zJxDHG9JtcCmiAgwVFRW3uK">Primary Religious Studies (playlist)</a>
+* <a target="_BLANK" href="https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw">Religion For Breakfast (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/playlist?list=PLcvEcrsF_9zIQm-KPGujuZkNRk_jTcehV">Religions of the World (playlist)</a>
+* <a target="_BLANK" href="https://www.youtube.com/channel/UCjGxvI96evF5p5ty_Ggeppw?view_as=subscriber">The Study of Christianity (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/playlist?list=PLMCt15e8gG-j3nRRZlmhltadY8XDn4KAH">World Religions (playlist)
 
 
 ## I want to listen...
+* <a target="_BLANK" href="https://faithbeliefforum.org/dialogues-across-difference-the-future-of-religious-education/">Dialogues Across Difference: The future of Religious Education</a>
 * <a target="_BLANK" href="https://itunes.apple.com/us/podcast/new-testament-review/id1377442882">New Testament Review</a>
 * <a target="_BLANK" href="http://podacre.blogspot.com/">NT Pod</a>
 * <a target="_BLANK" href="http://religionbites.xyz/">Religion Bites</a>
+* <a target="_BLANK" href="https://www.biblesociety.org.uk/explore-the-bible/shetoo/">#SheToo</a>
 * <a target="_BLANK" href="https://www.theosthinktank.co.uk/comment/podcasts-recordings">Theos: The Sacred</a>
 * <a target="_BLANK" href="https://religiousstudiesproject.com/">The Religious Studies Project</a>
 * <a target="_BLANK" href="https://woolfpods.wordpress.com/">Woolf Institute Podcasts</a>
@@ -172,4 +185,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.reonline.org.uk/">RE:Online</a>
 
 
-**This page was last updated: 05 March 2019**
+**This page was last updated: 06 March 2019**
