@@ -30,18 +30,3 @@ Some Sufis believe that to fail to recognise their fundamental relationship to G
 However, dedicated ascetics, such as al-Hallaj in the early 10th century, took this practice further. Al-Hallaj claimed to discover a profound sense of unity with Allah, similar to the merging of *Atman* and *Brahman* in Vedanta Hinduism, and Meister Eckhart’s mystical claim of the unity of the soul with God. Much like Jesus, he claimed to be *al-Haqq* (the Truth), and much like Jesus, he was executed after his activity became politically inconvenient.
 
 The mystic claims of Sufis, which emerge from their dhikr, are generally interpreted in a poetic or metaphorical sense, but Sufi activities are not without controversy in the Islamic world, and they have faced persecution and violence over the years. Since the supremacy of Allah is one of the central components of the Muslim faith (and the first of the Five Pillars), it can sometimes be difficult to reconcile *tawhid* (Allah's unity, distinct from creation) with the borderline pantheistic viewpoints of some Sufi mystics. Nevertheless, their passionate return to consciousness of Allah serves as inspiration for many Muslims around the world.
-
-<hr>
-
-<div class="card m-3 p-3">
-<div class="row">
-    <div class="col-sm-4" style="border-right: 1px solid grey">
-        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
-    </div>
-    <div class="col-sm-8">
-        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
-        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
-    </div>
-</div>
-</div>

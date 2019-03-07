@@ -47,18 +47,3 @@ Dinham suggests that people have neglected to talk about religion in an open and
 The APPG report summarises the subject by stating: '...improving religious literacy means equipping people with the knowledge and skills to understand and discuss religions and issues around them confidently, accurately and critically.'
 
 Religious literacy is a personal - and interpersonal - skill that facilitates a balanced and intelligent engagement with the religious aspects of human culture. It accepts diversity, resists simple labels, and seeks to contextualise and understand people in their own terms. As the world gets ever smaller, and cultures ever more intertwined, this skill can only become more important and relevant. Without it, the potential for misunderstanding, hatred, and even violence, can grow.
-
-<hr>
-
-<div class="card m-3 p-3">
-<div class="row">
-    <div class="col-sm-4" style="border-right: 1px solid grey">
-        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
-    </div>
-    <div class="col-sm-8">
-        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
-        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
-    </div>
-</div>
-</div>

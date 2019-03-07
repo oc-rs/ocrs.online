@@ -52,18 +52,3 @@ We also encounter this difficulty with the recent debate about veiling in Islam,
 If the Quran were the single source of religious practice, the Islamic world would be a far less vibrant and complex place, because in truth no religion (as far as we can comfortably isolate such a thing) is contained within its holy scripture. Religion exists in people, and people come up with new ideas, they read old words in new ways, and they find innovative ways to apply old principles.
 
 None of which is to claim one side or the other of the veiling debate is 'correct', but simply to say that a religion is more than its books, and to rule something out as non-religious on the basis of its absence from a text is problematic and counter-productive.
-
-<hr>
-
-<div class="card m-3 p-3">
-<div class="row">
-    <div class="col-sm-4" style="border-right: 1px solid grey">
-        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
-    </div>
-    <div class="col-sm-8">
-        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
-        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
-    </div>
-</div>
-</div>

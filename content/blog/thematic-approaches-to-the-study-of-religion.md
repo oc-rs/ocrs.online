@@ -73,18 +73,3 @@ It's still important to understand the context, since otherwise rich and complex
 We want to upend the idea that a person's religion is simple, contained, and static. Instead we want to shed light on the dramatic dynamism that exists in people's attempts to find meaning and purpose within the universe, and how the techniques, narratives, and ideas that they develop can bring people together and tear them apart.
 
 In short, we want to show how really, REALLY interesting religion is.
-
-<hr>
-
-<div class="card m-3 p-3">
-<div class="row">
-    <div class="col-sm-4" style="border-right: 1px solid grey">
-        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
-    </div>
-    <div class="col-sm-8">
-        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
-        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
-    </div>
-</div>
-</div>

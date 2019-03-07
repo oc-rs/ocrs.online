@@ -80,18 +80,3 @@ Though designed for navigating the difficult ground of copyright law, these lice
 If we apply this logic to the use of religious theory and practice, we can see that an open source approach would be able to incorporate such religious entities, whilst also maintaining clear roots back into the traditions from which they emerged. This tactic may find increasing favour with those in Western nations who find difficulty subscribing to a single religion, yet who are not atheistic or opposed to spirituality - so-called <a href="http://www.pewforum.org/2012/10/09/nones-on-the-rise/">‘religious nones’ and the related group of ‘spiritual but not religious’</a>.
 
 The well known scriptures of the world are sealed by their respective traditions and authorities - however it is not fair to say that people have never challenged this traditionalism, and there have been many religions that developed by customising their existing canon, welcoming new practices, and taking a more flexible approach to engaging with the divine. In many ways, the religious world has moved towards an open source approach, making itself available, accountable, and engaging directly with the individual - yet there is room for those religiously unaffiliated to take this further, and perhaps build a new way of engaging with spirituality that does not disrespect the cultural origins of its antecedents, but is not bound to it either.
-
-<hr>
-
-<div class="card m-3 p-3">
-<div class="row">
-    <div class="col-sm-4" style="border-right: 1px solid grey">
-        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
-    </div>
-    <div class="col-sm-8">
-        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
-        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
-    </div>
-</div>
-</div>

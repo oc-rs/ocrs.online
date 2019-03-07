@@ -102,18 +102,3 @@ Another example of the relationship between race, religion, and colonial history
 <p>For a discussion on the category of &lsquo;indigenous religion&rsquo; and what this may represent both in terms of contemporary approaches and historical narrative, you can also listen to this <a href="https://www.religiousstudiesproject.com/podcast/what-do-we-mean-by-indigenous-religions/">podcast from The Religious Studies Project</a>.</p>
 
 This blog post is a part of our online course <a target="_BLANK" href="https://courses.oc-rs.org/courses/introduction-to-religious-studies">Introduction to Religious Studies</a>. If you find the content interesting, why not consider signing up?
-
-<hr>
-
-<div class="card m-3 p-3">
-<div class="row">
-    <div class="col-sm-4" style="border-right: 1px solid grey">
-        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
-    </div>
-    <div class="col-sm-8">
-        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
-        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
-    </div>
-</div>
-</div>

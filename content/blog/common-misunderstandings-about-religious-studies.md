@@ -41,18 +41,3 @@ Really!? You might have an eternal, immutable soul that after death will journey
 Aren't you a little curious about magic, myth, or mushrooms? What about visions in the sky? Are UFOs part of the modern religious experience? Why is yoga so popular and where did it come from? Why does the Catholic Church have so much wealth? Are there different types of meditation? What's the difference? Why do Sikhs give food to everyone? Why do Muslims give so much to charity? Why do Buddhists keep talking about having an empty mind? How come billions of people around the world and throughout history have touched some unspeakable mystery, wrapped it in words, and tried to pass the knowledge on? What is that? Is it some quirk of human biology or is it part of the fabric of the universe? Is there one mystery or many? Why do we think of religion as separate from the rest of culture when it's so clearly embedded in everything we do? What on earth are we all doing here?
 
 If you really think religion is boring then you haven't looked closely enough!
-
-<hr>
-
-<div class="card m-3 p-3">
-<div class="row">
-    <div class="col-sm-4" style="border-right: 1px solid grey">
-        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
-    </div>
-    <div class="col-sm-8">
-        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
-        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
-    </div>
-</div>
-</div>

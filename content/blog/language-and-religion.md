@@ -94,18 +94,3 @@ There are plenty of other languages in the world that have a deep relationship w
 
 <a target="_BLANK" style="color: white" href="https://courses.oc-rs.org/courses/how-to-study-religion"><div class="container mb-3 p-3" style="background-color: #951515">
 Interested in learning the basics of religious studies? Click here to join our free online course: How to Study Religion </div></a>
-
-<hr>
-
-<div class="card m-3 p-3">
-<div class="row">
-    <div class="col-sm-4" style="border-right: 1px solid grey">
-        <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
-    </div>
-    <div class="col-sm-8">
-        <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-        <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
-        <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
-    </div>
-</div>
-</div>
