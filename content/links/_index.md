@@ -172,6 +172,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://criticalreligion.org/">The Critical Religion Association</a>
 * <a target="_BLANK" href="https://www.issrnc.org/">The International Society for the Study of Religion, Nature, and Culture (ISSRNC)</a>
 * <a target="_BLANK" href="http://shiloh-project.group.shef.ac.uk/">The Shiloh Project</a>
+* <a target="_BLANK" href="https://www.uua.org">Unitarian Universalist Association</a>
 * <a target="_BLANK" href="https://ukabs.org.uk/">UK Association for Buddhist Studies (UKABS)</a>
 * <a target="_BLANK" href="http://www.studyreligion.org/why/index.html">Why Study Religion (AAR)</a>
 * <a target="_BLANK" href="http://wilmetteinstitute.org/">Wilmette Institute</a>
@@ -186,4 +187,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.teachre.co.uk">Teach:RE</a>
 
 
-**This page was last updated: 06 March 2019**
+**This page was last updated: 07 March 2019**
