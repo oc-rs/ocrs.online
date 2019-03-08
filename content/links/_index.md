@@ -32,6 +32,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://rerc-journal.tsd.ac.uk/index.php/religiousexp">Journal for the Study of Religious Experience</a>
 * <a target="_BLANK" href="https://bahai-studies.ca/publications/journal/">Journal of Bahá’í Studies</a>
 * <a target="_BLANK" href="http://jocbs.org/index.php/jocbs">Journal of the Oxford Centre for Buddhist Studies</a>
+* <a target="_BLANK" href="https://brill.com/view/journals/mtsr/mtsr-overview.xml">Method &amp; Theory in the Study of Religion</a>
 * <a target="_BLANK" href="http://www.onreligion.co.uk/">On Religion</a>
 * <a target="_BLANK" href="https://www.religionandgender.org/">Religion and Gender</a>
 * <a target="_BLANK" href="http://religiongoingpublic.com/">Religion: Going Public</a>
@@ -47,6 +48,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.youtube.com/watch?v=e-UnDWmpyAs">Does religious unbelief exist? | Dr Lois Lee | Think Kent (video)</a>
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCZaj79Suz--Lo0Oki_pX3DA">Faculty of Theology and Religion Oxford (channel)</a>
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCGAuRL71dTSCI2IAT-pGA3A">FROGBEAR Project (channel)</a>
+* <a target="_BLANK" href="https://www.youtube.com/channel/UCATwdAWLATa-kU_Tm5UgNtw">Ground Up Religion (channel)</a>
 * <a target="_BLANK" href="https://www.youtube.com/user/HarvardDivinity">Harvard Divinity School (channel)</a>
 * <a target="_BLANK" href="https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g">Let's Talk Religion (channel)</a>
 * <a target="_BLANK" href="https://www.youtube.com/channel/UCznJ7Xzb2FvfwnAUp-8H5eA">Oxford Centre for Buddhist Studies (channel)</a>
@@ -187,4 +189,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.teachre.co.uk">Teach:RE</a>
 
 
-**This page was last updated: 07 March 2019**
+**This page was last updated: 08 March 2019**
