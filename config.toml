@@ -5,3 +5,5 @@ languageCode = "en-gb"
   blog = "/:year/:month/:day/:slug/"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+[blackfriday] 
+  hrefTargetBlank = true
