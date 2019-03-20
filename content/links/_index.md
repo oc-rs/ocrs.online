@@ -67,6 +67,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://religionbites.xyz/">Religion Bites</a>
 * <a target="_BLANK" href="https://www.biblesociety.org.uk/explore-the-bible/shetoo/">#SheToo</a>
 * <a target="_BLANK" href="https://www.theosthinktank.co.uk/comment/podcasts-recordings">Theos: The Sacred</a>
+* [The Classical Ideas Podcast](https://classicalideaspodcast.libsyn.com)
 * <a target="_BLANK" href="https://religiousstudiesproject.com/">The Religious Studies Project</a>
 * <a target="_BLANK" href="https://woolfpods.wordpress.com/">Woolf Institute Podcasts</a>
 
@@ -138,6 +139,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.a-asr.org/">African Association for the Study of Religions</a>
 * <a target="_BLANK" href="https://www.aarweb.org/">American Academy of Religion (AAR)</a>
 * <a target="_BLANK" href="https://bahai-studies.ca/">Association for Bahá’í Studies</a>
+* [Association for the Sociology of Religion](https://www.sociologyofreligion.com)
 * <a target="_BLANK" href="http://www.ayuryog.org/">AyurYog</a>
 * <a target="_BLANK" href="https://www.bahai.us/">Bahá’ís of the United States</a>
 * <a target="_BLANK" href="https://www.bbc.com/education/subjects/zb48q6f">BBC Bitesite Revision (GCSE Religious Studies)</a>
@@ -189,4 +191,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.teachre.co.uk">Teach:RE</a>
 
 
-**This page was last updated: 08 March 2019**
+**This page was last updated: 20 March 2019**
