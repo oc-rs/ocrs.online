@@ -154,6 +154,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.worldreligions.ca/">Encounter World Religions Centre</a>
 * <a target="_BLANK" href="https://www.europeanacademyofreligion.org/">European Academy of Religion</a>
 * <a target="_BLANK" href="http://www.easr.info/">European Association for the Study of Religions (EASR)</a>
+* [Exploring Secularism](https://exploringsecularism.org)
 * <a target="_BLANK" href="http://www.fsrinc.org/">Feminist Studies in Religion (FSR)</a>
 * <a target="_BLANK" href="http://www.hinduacademy.org/">Hindu Academy</a>
 * <a target="_BLANK" href="http://indology.info/">Indology</a>
@@ -181,6 +182,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.studyreligion.org/why/index.html">Why Study Religion (AAR)</a>
 * <a target="_BLANK" href="http://wilmetteinstitute.org/">Wilmette Institute</a>
 * <a target="_BLANK" href="https://www.woolf.cam.ac.uk/">Woolf Institute</a>
+* [World Religions and Spirituality](https://wrldrels.org)
 
 
 ## I want to teach...
@@ -191,4 +193,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.teachre.co.uk">Teach:RE</a>
 
 
-**This page was last updated: 20 March 2019**
+**This page was last updated: 1 April 2019**
