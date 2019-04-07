@@ -85,6 +85,7 @@ description: 'Links to online resources'
 * <a target='_BLANK' href='https://online-learning.harvard.edu/course/religion-conflict-and-peace'>Harvard University | Religion, Conflict and Peace</a>
 * <a target='_BLANK' href='https://online-learning.harvard.edu/course/world-religions-through-their-scriptures'>Harvard University | World Religions Through Their Scriptures</a>
 * <a target='_BLANK' href='https://www.futurelearn.com/courses/introducing-humanism'>Humanists UK | Introducing Humanism: Non-religious Approaches to Life</a>
+* [Lion's Roar | The Three Turnings of the Wheel](https://courses.lionsroar.com/naropa5/)
 * <a target='_BLANK' href='https://ochsonline.org/product/bhagavad-gita/'>Oxford Centre for Hindu Studies | Bhagavad Gita</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/god-in-bhagavad-gita/'>Oxford Centre for Hindu Studies | God in the Gita</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/hindu-temples/'>Oxford Centre for Hindu Studies | Hindu Temples</a>
@@ -193,4 +194,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.teachre.co.uk">Teach:RE</a>
 
 
-**This page was last updated: 1 April 2019**
+**This page was last updated: 7 April 2019**
