@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+
+    <main role="main">
+        <img src="/img/{{ .Params.image }}" class="smallbanner">
+          
+        <div class="blogtitle">
+          <h1>{{ .Params.blogtitle }}</h1>
+        </div>
+        <div class="blogbyline">
+          <h5>Posted {{ .Date.Format "2 January 2006" }} by {{ .Params.author }}</h5>
+        </div>
+
+        <div class="container">
+            <div class="row mt-3">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-7">
+                  <article>
+                    {{ .Content }}
+                    <hr>
+                    <div class="card m-3 p-3">
+                    <div class="row">
+                        <div class="col-sm-4" style="border-right: 1px solid grey">
+                            <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
+                        </div>
+                        <div class="col-sm-8">
+                            <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
+                            <p>Luke is the founder and director of the OCRS, and is currently studying with the Open Uni towards a degree in Humanities. He lives in Somerset with his wife, Rosie.</p>
+                            <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
+                        </div>
+                    </div>
+                    </div>
+                    {{ template "_internal/disqus.html" . }}
+                  </article>
+                </div>
+                <div class="col-sm-4">
+                    <h4>Stay up to date</h4>
+                    <p><a target="_BLANK" href="https://signup.oc-rs.org/join">Join the OCRS</a></p>
+                    <p><a target="_BLANK" href="https://signup.oc-rs.org/how-to-study-religion">Claim your free email course</a></p>
+                    <p><a target="_BLANK" href="/contact">Get in touch!</a></p>
+                    <a class="twitter-timeline" data-height="1500" data-dnt="true" data-link-color="#921515" href="https://twitter.com/_ocrs_?ref_src=twsrc%5Etfw">Tweets by _ocrs_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+                </div>
+            </div>
+          </div>
+          <script type="text/javascript" src="https://static.mailerlite.com/data/webforms/652420/k8w9j7.js?v7"></script>
+      <footer class="container-fluid">
+        {{ partial "footer.html" . }}
+      </footer>
+    </main>
+
+    {{ partial "scripts.html" }}
+    
+    </body>
+</html>

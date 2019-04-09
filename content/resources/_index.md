@@ -5,6 +5,10 @@ description: 'Free learning resources from the OCRS'
 ---
 # Free Resources
 
+## Reference Library
+
+Click here to access the [OCRS Reference Library](/reference-library/).
+
 ## Publications
 
 #### Iman in Islam

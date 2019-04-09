@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+
+    <main role="main">
+        <!--<img src="/img/{{ .Params.image }}" class="smallbanner">-->
+
+            <div class="jumbotron mb-2"><!-- contains main title and summary -->
+      <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="blurbotron text-primary">{{ .Params.description }}</p>
+      </div>
+    </div>
+
+        <div class="container">
+
+            <div class="row"><!-- first row - contains title, search box -->
+              <div class="col-sm mt-3">
+                <div class="input-group input-group-lg">
+                  <button class="btn btn-danger mr-2" onclick="reset()" data-original-title="Clear search criteria" data-toggle="tooltip" data-placement="bottom">&cross;</button>
+                  <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroup-sizing-lg">Search</span>
+                  </div>
+                  <input type="text" id="searchbox" class="form-control" aria-label="Large" aria-describedby="inputGroup-sizing-sm" onkeyup="search()">
+                </div>
+              </div>
+            </div> <!-- end of first  row -->
+      
+            <div class="row my-3"><!-- second row -->
+              <div class="col-sm"><!-- column containing table -->
+                <table class="table mt-3 table-hover">
+                  {{ range .Pages.ByTitle }}
+                  <tr>
+                    <td><a href="{{.URL}}">{{.Title}}</a></td>
+                    <td class="text-muted font-italic">{{ .Params.homedir }}</td>
+                    <td class="text-muted font-italic">Last updated: {{ .Lastmod.Format "02 Jan 2006" }}</td>
+                    <td class="text-muted font-italic">{{ .ReadingTime }} minute read</td>
+                  </tr>
+                  {{end}}
+                </table>
+              </div> <!-- end of column containing table -->
+            </div><!-- end of second row -->
+      
+          </div><!-- end of container -->
+
+      <footer class="container-fluid">
+        {{ partial "footer.html" . }}
+      </footer>
+    </main>
+
+    {{ partial "scripts.html" }}
+    
+    </body>
+</html>

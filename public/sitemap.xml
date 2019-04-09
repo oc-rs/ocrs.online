@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://oc-rs.org/reference-library/jesus/</loc>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oc-rs.org/2018/12/20/common-misunderstandings-about-religious-studies/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
   </url>
@@ -99,10 +104,6 @@
   </url>
   
   <url>
-    <loc>https://oc-rs.org/methods/</loc>
-  </url>
-  
-  <url>
     <loc>https://oc-rs.org/courses/</loc>
   </url>
   
@@ -111,7 +112,8 @@
   </url>
   
   <url>
-    <loc>https://oc-rs.org/scholars/</loc>
+    <loc>https://oc-rs.org/reference-library/</loc>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -131,10 +133,6 @@
   <url>
     <loc>https://oc-rs.org/</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oc-rs.org/theories/</loc>
   </url>
   
 </urlset>

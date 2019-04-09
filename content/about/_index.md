@@ -71,7 +71,7 @@ We're big fans of Linux, and currently use <a href="https://linuxmint.com/" targ
 
 Our website is built using the open source static site generator <a target="_BLANK" href="https://gohugo.io">Hugo</a>.
 
-The site's code is freely available on our <a target="_BLANK" href="https://github.com/oc-rs">Github account</a> in case you want to have a look.
+The site's code is freely available on our <a target="_BLANK" href="https://github.com/oc-rs">Github account</a> in case you want to have a look, and you can take a sneak peek at future developments by visiting our testing site: [https://dev-ocrs.netlify.com](https://dev-ocrs.netlify.com).
 
 ### The church and the mountain
 <img style="width: 200px" class="rounded-circle" src="/img/logo-2018-illustrated-notext.jpg">
@@ -100,4 +100,4 @@ The OCRS was founded in 2016 by Luke Burns.
 
 Luke is currently studying with the Open University for a degree in Humanities, with a focus on (you guessed it) religious studies. He lives in Somerset with his wife and pet degus.
 
-**This page was last updated: 11 March 2019**
+**This page was last updated: 9 April 2019**
