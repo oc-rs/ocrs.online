@@ -82,6 +82,7 @@ description: 'Links to online resources'
 ## I want to learn...
 ### ...about religions
 * <a target='_BLANK' href='https://www.futurelearn.com/courses/muslims-in-britain'>Cardiff University | Muslims in Britain: Changes and Challenges</a>
+* [Edinburgh University | The Sharia and Islamic Law: An Introduction](https://www.futurelearn.com/courses/an-introduction-to-the-sharia-and-islamic-law)
 * <a target='_BLANK' href='https://online-learning.harvard.edu/course/religion-conflict-and-peace'>Harvard University | Religion, Conflict and Peace</a>
 * <a target='_BLANK' href='https://online-learning.harvard.edu/course/world-religions-through-their-scriptures'>Harvard University | World Religions Through Their Scriptures</a>
 * <a target='_BLANK' href='https://www.futurelearn.com/courses/introducing-humanism'>Humanists UK | Introducing Humanism: Non-religious Approaches to Life</a>
@@ -125,6 +126,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://israelbiblicalstudies.com/biblical-languages/biblical-aramaic/">Israel Institute of Biblical Studies | Biblical Aramaic - Level 1</a>
 * <a target='_BLANK' href='https://www.ocbs-courses.org/catalogue/online-course/pali-level-1/'>Oxford Centre for Buddhist Studies | Pali Level 1</a>
 * <a target='_BLANK' href='https://www.ocbs-courses.org/catalogue/online-course/pali-level-2/'>Oxford Centre for Buddhist Studies | Pali Level 2</a>
+* [Oxford Centre for Buddhist Studies | Pali Level 3](https://www.ocbs-courses.org/catalogue/online-course/pali-level-3/)
 * <a target='_BLANK' href='https://ochsonline.org/product/sanskrit-level-1/'>Oxford Centre for Hindu Studies | Sanskrit: Level 1</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/sanskrit-level-2/'>Oxford Centre for Hindu Studies | Sanskrit: Level 2</a>
 * <a target='_BLANK' href='https://ochsonline.org/product/sanskrit-level-3/'>Oxford Centre for Hindu Studies | Sanskrit: Level 3</a>
@@ -194,4 +196,4 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.teachre.co.uk">Teach:RE</a>
 
 
-**This page was last updated: 7 April 2019**
+**This page was last updated: 12 April 2019**
