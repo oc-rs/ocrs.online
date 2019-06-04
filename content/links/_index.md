@@ -39,6 +39,10 @@ description: 'Links to online resources'
 
 ### ...articles
 * <a target="_BLANK" href="https://medium.com/religion-bites/decolonizing-the-study-of-religion-where-to-start-f8af41b3d34c">Decolonizing the Study of Religion: where to start?</a>
+* [Feminism and Analytic Philosophy of Religion](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195331356.001.0001/oxfordhb-9780195331356-e-21)
+* [How the Polish Black Madonna Became Haitian Vodou Spirit Erzulie Dantor](https://www.patheos.com/blogs/theglobalcatholicreview/2018/06/polish-black-madonna-haitian-vodou-spirit-erzulie-dantor-kate-kingsbury-africa-love-religion)
+* [Moralizing gods appear after, not before, the rise of social complexity, new research suggests](http://www.ox.ac.uk/news/2019-03-21-moralizing-gods-appear-after-not-rise-social-complexity-new-research-suggests)
+* [Reading the Qur'ān justly: Why there is no need to understand the Qur'ān as a male-privileging text](https://www.abc.net.au/religion/reading-the-quran-justly/10973190)
 * <a target="_BLANK" href="https://religiousstudiesproject.com/podcast/russell-mccutcheon-on-religion-as-sui-generis/">‘Religion’ as ‘sui generis’</a>
 * <a target="_BLANK" href="https://religion.ua.edu/links/studying-religion-in-culture/">Studying Religion in Culture</a>
 
@@ -161,16 +165,19 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="http://www.fsrinc.org/">Feminist Studies in Religion (FSR)</a>
 * <a target="_BLANK" href="http://www.hinduacademy.org/">Hindu Academy</a>
 * <a target="_BLANK" href="http://indology.info/">Indology</a>
+* [Inform](https://inform.ac)
 * <a target="_BLANK" href="http://www.iahrweb.org/">International Association for the History of Religions (IAHR)</a>
 * <a target="_BLANK" href="https://associationreligionandgender.org/">International Association for the Study of Religion and Gender</a>
 * <a target="_BLANK" href="https://www.theiarj.org/">International Association of Religion Journalists</a>
 * <a target="_BLANK" href="http://www.iqsaweb.org/">International Qur'anic Studies Association</a>
+* [Interreligious Studies Network (IRSN)](https://interreligiousstudies.com)
 * <a target="_BLANK" href="https://naasr.com/">North American Association for the Study of Religion (NAASR)</a>
 * <a target="_BLANK" href="http://www.religioustolerance.org/">Ontario Consultants on Religious Tolerance (OCRT)</a>
 * <a target="_BLANK" href="https://ocbs.org/">Oxford Centre for Buddhist Studies (OCBS)</a>
 * <a target="_BLANK" href="https://www.ochjs.ac.uk/">Oxford Centre for Hebrew and Jewish Studies</a>
 * <a target="_BLANK" href="http://ochs.org.uk/">Oxford Centre for Hindu Studies (OCHS)</a>
 * <a target="_BLANK" href="https://www.oxcis.ac.uk/">Oxford Centre for Islamic Studies</a>
+* [PANDiT](https://www.panditproject.org)
 * <a target="_BLANK" href="https://rlp.hds.harvard.edu/">Religious Literacy Project</a>
 * <a target="_BLANK" href="http://reires.eu/">Research Infrastructure on Religious Studies (ReIReS)</a>
 * <a target="_BLANK" href="http://sikh2inspire.com/">Sikh2Inspire</a>
@@ -194,6 +201,7 @@ description: 'Links to online resources'
 * <a target="_BLANK" href="https://www.religiouseducationcouncil.org.uk/">Religious Education Council of England and Wales</a>
 * <a target="_BLANK" href="http://www.reonline.org.uk/">RE:Online</a>
 * <a target="_BLANK" href="https://www.teachre.co.uk">Teach:RE</a>
+* [Integrating New Religions Scholarship into Religious Studies Courses](http://rsn.aarweb.org/spotlight-on/teaching/new-alternative-religions/integrating-new-religions-scholarship)
 
 
-**This page was last updated: 12 April 2019**
+**This page was last updated: 4 June 2019**
