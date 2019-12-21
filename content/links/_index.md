@@ -88,7 +88,7 @@ description: 'Links to online resources'
 * <a target='_BLANK' href='https://www.futurelearn.com/courses/muslims-in-britain'>Cardiff University | Muslims in Britain: Changes and Challenges</a>
 * [Edinburgh University | The Sharia and Islamic Law: An Introduction](https://www.futurelearn.com/courses/an-introduction-to-the-sharia-and-islamic-law)
 * <a target='_BLANK' href='https://online-learning.harvard.edu/course/religion-conflict-and-peace'>Harvard University | Religion, Conflict and Peace</a>
-* <a target='_BLANK' href='https://online-learning.harvard.edu/course/world-religions-through-their-scriptures'>Harvard University | World Religions Through Their Scriptures</a>
+* <a target='_BLANK' href='https://www.edx.org/xseries/harvardx-world-religions-through-scriptures'>Harvard University | World Religions Through Their Scriptures</a>
 * <a target='_BLANK' href='https://www.futurelearn.com/courses/introducing-humanism'>Humanists UK | Introducing Humanism: Non-religious Approaches to Life</a>
 * [Lion's Roar | The Three Turnings of the Wheel](https://courses.lionsroar.com/naropa5/)
 * <a target='_BLANK' href='https://ochsonline.org/product/bhagavad-gita/'>Oxford Centre for Hindu Studies | Bhagavad Gita</a>
@@ -204,4 +204,4 @@ description: 'Links to online resources'
 * [Integrating New Religions Scholarship into Religious Studies Courses](http://rsn.aarweb.org/spotlight-on/teaching/new-alternative-religions/integrating-new-religions-scholarship)
 
 
-**This page was last updated: 4 June 2019**
+**This page was last updated: 21 December 2019**
