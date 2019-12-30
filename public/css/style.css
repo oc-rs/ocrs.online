@@ -4,6 +4,18 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a.nav-link:link {
+  color: #FFFFFF!important;
+}
+
+a.nav-link:visited {
+  color: #FFFFFF!important;
+}
+
+a.nav-link:hover {
+  color: #FFC500!important;
+}
+
 .navbar {
   background-color: #921515;
   color: #FFFFFF;
