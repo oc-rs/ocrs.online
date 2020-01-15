@@ -1,9 +1,8 @@
 ---
 title: 'Join the OCRS | The Online Centre for Religious Studies'
 image: 'mountain.jpeg'
-description: 'Find out more about the OCRS...'
+description: 'Join the OCRS today'
 ---
-# Join the OCRS
 
 <style type="text/css">
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
@@ -55,8 +54,9 @@ description: 'Find out more about the OCRS...'
       </div>
       <div class="ml-form-successBody row-success" style="display:none">
         <div class="ml-form-successContent">
-          <h4>Thank you!</h4>
-          <p>You have successfully joined our subscriber list.</p>
+          <h4>You're almost there...</h4>
+          <p>Please check your email inbox to finish signing up.&nbsp;</p>
+          <p>If you can't see our email, have a look in your junk/spam folder.</p>
         </div>
       </div>
     </div>
