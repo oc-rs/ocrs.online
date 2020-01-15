@@ -1,11 +1,10 @@
 ---
-title: 'About the OCRS | The Online Centre for Religious Studies'
+title: 'Join the OCRS | The Online Centre for Religious Studies'
 image: 'mountain.jpeg'
 description: 'Find out more about the OCRS...'
 ---
 # Join the OCRS
 
----
 <style type="text/css">
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
 </style>
