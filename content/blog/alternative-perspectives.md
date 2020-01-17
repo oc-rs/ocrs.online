@@ -14,7 +14,7 @@ image: incense-sticks.jpeg
 
 Alternative voices, due to their absence in mainstream texts and dismissal by historical scholars, are sometimes difficult to hear over the sound of traditional narratives &ndash; but this is increasingly changing for the better. Where we can open ourselves to these voices, we can improve our understanding of the history of religion, but also our understanding of contemporary religious practitioners as well.
 
-<a target="_BLANK" style="color: white" href="https://courses.oc-rs.org/courses/introduction-to-religious-studies"><div class="container mb-3 p-3" style="background-color: #951515">This blog post is a part of our online course <strong>Introduction to Religious Studies</strong>. If you find the content interesting, why not consider signing up?</div></a>
+<a target="_BLANK" style="color: white" href="https://ocrs.thinkific.com/courses/introduction-to-religious-studies"><div class="container mb-3 p-3" style="background-color: #951515">This blog post is a part of our online course <strong>Introduction to Religious Studies</strong>. If you find the content interesting, why not consider signing up?</div></a>
 
 Female academic perspectives on religious literature, contesting or challenging male interpretations, have been developing over a long period of time. Towards the end of the 19<sup>th</sup> century, Elizabeth Cady Stanton published <em>The Woman&rsquo;s Bible</em>, an academic translation and commentary on passages from the Hebrew Bible and the New Testament that relate to women, both in order to challenge popular (male) interpretations of the texts, and to shed light on problematic, misogynistic elements of the original material.
 
@@ -101,4 +101,4 @@ Another example of the relationship between race, religion, and colonial history
 
 <p>For a discussion on the category of &lsquo;indigenous religion&rsquo; and what this may represent both in terms of contemporary approaches and historical narrative, you can also listen to this <a href="https://www.religiousstudiesproject.com/podcast/what-do-we-mean-by-indigenous-religions/">podcast from The Religious Studies Project</a>.</p>
 
-This blog post is a part of our online course <a target="_BLANK" href="https://courses.oc-rs.org/courses/introduction-to-religious-studies">Introduction to Religious Studies</a>. If you find the content interesting, why not consider signing up?
+This blog post is a part of our online course <a target="_BLANK" href="https://ocrs.thinkific.com/courses/introduction-to-religious-studies">Introduction to Religious Studies</a>. If you find the content interesting, why not consider signing up?
