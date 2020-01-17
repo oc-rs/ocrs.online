@@ -31,8 +31,13 @@ Rather, as he goes on to elaborate <a href="https://www.sheffield.ac.uk/news/nr/
 
 In other words, religious literacy means appreciating that religions are not neat boxes, they are filled with internal diversity, complex histories, and competing ideologies. This is the first skill - avoiding the trap of saying ‘Christians believe….’ or ‘Islam teaches…’.
 
-<a target="_BLANK" style="color: white" href="https://courses.oc-rs.org/courses/how-to-study-religion"><div class="container mb-3 p-3" style="background-color: #951515">
-Interested in learning the basics of religious studies? Click here to join our free online course: How to Study Religion </div></a>
+
+<div class="container mb-3 p-3" style="background-color: #951515">
+    <a target="_BLANK" style="color: white" 
+    href="https://ocrs.thinkific.com/courses/how-to-study-religion">
+        Interested in learning the basics of religious studies? Click here to join our free online course: How to Study Religion
+    </a>
+</div>
 
 The second skill means appreciating the personal disposition of adherents when talking about their traditions. We may find that though Roman Catholics believe a particular catechism, some do not feel very strongly about it, and it does not drive their daily life. The reverse is also possible, so care must be taken before drawing unfounded conclusions.
 
