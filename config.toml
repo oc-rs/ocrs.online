@@ -1,5 +1,5 @@
 disqusShortname = "ocrs"
-baseURL = "https://oc-rs.org/"
+baseURL = "https://ocrs.online"
 languageCode = "en-gb"
 [permalinks]
   blog = "/:year/:month/:day/:slug/"
