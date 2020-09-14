@@ -20,7 +20,7 @@ A discovery of phosphine gas indicates that either a completely unknown form of 
 
 <img class="img-fluid p-2" src="/img/venus2.png">
 
-But what could this discover mean in the context of religious studies?
+But what could this discovery mean in the context of religious studies?
 
 For many religious traditions, Earth is the site of divine creation and revelation - it was here that God revealed itself to Moses and Muhammad, to Guru Nanak and Arjuna. The history of early humanity is intimately tied to our accounts of creation, focused upon our relationship with supranatural creators, their desires and their demands.
 
