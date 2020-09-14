@@ -14,11 +14,13 @@ image: bacteria_1280.jpg
 
 The existence of life in the upper atmosphere of Venus has [potentially been demonstrated today](https://www.nature.com/articles/s41550-020-1174-4) by the publication of data and analysis by the Royal Astronomical Society. But what does it mean that microbes, perhaps not too dissimilar from those found on Earth, have (probably) been discovered on our sister planet?
 
-A discovery of phosphine gas indicates that either a completely unknown form of chemistry is taking place, or life exists.
+A discovery of phosphine gas indicates that either a completely unknown form of chemistry is taking place, or - tantalisingly - life exists beyond the Earth.
 
 <img class="img-fluid p-2" src="/img/venus1.png">
 
 <img class="img-fluid p-2" src="/img/venus2.png">
+
+But what could this discover mean in the context of religious studies?
 
 For many religious traditions, Earth is the site of divine creation and revelation - it was here that God revealed itself to Moses and Muhammad, to Guru Nanak and Arjuna. The history of early humanity is intimately tied to our accounts of creation, focused upon our relationship with supranatural creators, their desires and their demands.
 
