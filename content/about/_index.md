@@ -82,7 +82,7 @@ The church was constructed on top of an older structure that was so massive it w
 
 This practice of converting land, buildings, or established rituals from older religious traditions to newer ones is common in many different religions, but is rarely so vividly demonstrated.
 
-<div class="card mb-3" style="width: 25rem;">
+<div class="card mb-3" style="max-width: 100%; width: 25rem;">
   <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Cholula_model.jpg" alt="Card image cap">
   <div class="card-body">
     <p class="card-text">Photo courtesy of <a target="_BLANK" href="https://commons.wikimedia.org/wiki/File:Cholula_model.jpg">Mhaesen</a><br><a target="_BLANK" href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>, via Wikimedia Commons</p>
@@ -98,6 +98,6 @@ You can find out more via the links below:
 ### Who are we?
 The OCRS was founded in 2016 by Luke Burns.
 
-Luke is currently studying with the Open University for a degree in Humanities, with a focus on (you guessed it) religious studies. He lives in Somerset with his wife and pet degus.
+Luke has a First Class Honours Degree in Humanities from the Open University, with a focus on (you guessed it) religious studies. He lives in Somerset with his wife and pet degus.
 
-**This page was last updated: 11 March 2019**
+**This page was last updated: 14 September 2020**
