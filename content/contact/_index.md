@@ -25,7 +25,7 @@ Submissions should be in English, however dual-language submissions can be made 
 You retain the copyright to any work that you submit; if you also want to post your work elsewhere that's fine with us!
 
 ## How to reach us
-You can reach us at <a href="mailto:info@oc-rs.org">info@oc-rs.org</a>, or find us on <a href="https://www.facebook.com/the.online.centre.for.religious.studies/">Facebook</a> and <a href="https://twitter.com/_ocrs_/">Twitter</a>.</p>
+You can reach us at <a href="mailto:info@ocrs.online">info@ocrs.online</a>, or find us on <a href="https://www.facebook.com/the.online.centre.for.religious.studies/">Facebook</a> and <a href="https://twitter.com/_ocrs_/">Twitter</a>.</p>
 
 <p>Alternatively, use the handy contact form below!</p>
 
@@ -51,4 +51,4 @@ You can reach us at <a href="mailto:info@oc-rs.org">info@oc-rs.org</a>, or find 
 
 </form>
 
-**This page was last updated: 23 February 2019**
+**This page was last updated: 6 October 2020**

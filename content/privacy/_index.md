@@ -24,8 +24,8 @@ The information you provide will be held unless or until you ask us to remove it
 
 Your payment details are never kept by us.
 
-If you have any concerns or issues with your data, get in touch at <a href="mailto:dataprotection@oc-rs.org">dataprotection@oc-rs.org</a> in the first instance. If we can’t help, then you can contact the Information Commissioner’s Office for advice and guidance: <a href="https://ico.org.uk">https://ico.org.uk</a>
+If you have any concerns or issues with your data, get in touch at <a href="mailto:dataprotection@ocrs.online">dataprotection@ocrs.online</a> in the first instance. If we can’t help, then you can contact the Information Commissioner’s Office for advice and guidance: <a href="https://ico.org.uk">https://ico.org.uk</a>
 
 *Although GDPR is not applicable worldwide, we apply the same standards to all our visitors and students, so you can expect the same rights to your data no matter where you are in the world.*
 
-**This page was last updated: 19 February 2019**
+**This page was last updated: 6 October 2020**
