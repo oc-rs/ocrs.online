@@ -16,6 +16,8 @@ In June 2022 the [Independent Schools Religious Studies Association (ISRSA)](htt
 
 We have previously covered the proposed change, and its challenges, here: [Religion and Worldviews (24 February 2019)](/2019/02/24/religion-and-worldviews/).
 
+*This article was updated by Luke Burns on 22nd June 2022*
+
 ## The position of independent schools
 To be clear at the outset, the CoRE recommendations and the proposed national entitlement are intended for state-funded schools. Independent / private institutions are already free from the requirements of the national curriculum, and the report states:
 > We recommend that the Entitlement applies to all pupils in all publicly funded schools, and that independent schools are encouraged to adopt it as a mark of good practice.
@@ -147,7 +149,11 @@ What you can't (shouldn't) do is say things like: *'God revealed himself through
 Metaphysics isn't something that we can study directly, only indirectly through people's claims. That doesn't mean the metaphysical isn't real, just that it's not accessible for a balanced, neutral classroom study. Unless you want to do experiments with prayer, meditation, seances, etc., which would be interesting, but how happy would your pupils or their parents be if you had them chanting Sanskrit or reading the Shahadah?
 
 ### There is a general fear that a shift to worldviews, rather than improve academic standards, will not prepare students for GCSE/GCE RS, even less philosophy and/or theology at university level (3h)
-I trust that those designing curricula and working with awarding bodies will work to ensure everything fits together, but I can't really comment on this as I don't know - maybe?
+~I trust that those designing curricula and working with awarding bodies will work to ensure everything fits together, but I can't really comment on this as I don't know - maybe?~
+
+I've been helpfully made aware that Dr Opinderjit Takhar, president of TRS-UK, [is in favour of a move towards teaching worldviews in schools](https://religionmediacentre.org.uk/news/time-to-explore-the-worldviews-underpinning-the-iceberg-of-religion/), and Durham University has developed [a brand new undergraduate degree](https://religionmediacentre.org.uk/news/world-views-tag-could-stop-university-department-closures/) built around this new approach.
+
+So there's a good chance that this fear about disadvantaging students is not well founded. Credit to [Tim Hutchings](https://twitter.com/tim_hutchings) for the pointers in this area!
 
 ## Conclusions and recommendations
 The ISRSA report then draws some conclusions and makes some recommendations, most of which effectively say: go back and look again, this doesn't sound right to us.
