@@ -149,7 +149,7 @@ What you can't (shouldn't) do is say things like: *'God revealed himself through
 Metaphysics isn't something that we can study directly, only indirectly through people's claims. That doesn't mean the metaphysical isn't real, just that it's not accessible for a balanced, neutral classroom study. Unless you want to do experiments with prayer, meditation, seances, etc., which would be interesting, but how happy would your pupils or their parents be if you had them chanting Sanskrit or reading the Shahadah?
 
 ### There is a general fear that a shift to worldviews, rather than improve academic standards, will not prepare students for GCSE/GCE RS, even less philosophy and/or theology at university level (3h)
-~I trust that those designing curricula and working with awarding bodies will work to ensure everything fits together, but I can't really comment on this as I don't know - maybe?~
+~~I trust that those designing curricula and working with awarding bodies will work to ensure everything fits together, but I can't really comment on this as I don't know - maybe?~~
 
 I've been helpfully made aware that Dr Opinderjit Takhar, president of TRS-UK, [is in favour of a move towards teaching worldviews in schools](https://religionmediacentre.org.uk/news/time-to-explore-the-worldviews-underpinning-the-iceberg-of-religion/), and Durham University has developed [a brand new undergraduate degree](https://religionmediacentre.org.uk/news/world-views-tag-could-stop-university-department-closures/) built around this new approach.
 
