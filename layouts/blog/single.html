@@ -26,18 +26,37 @@
                   <article>
                     {{ .Content }}
                     <hr>
-                    <div class="card m-3 p-3">
-                    <div class="row">
-                        <div class="col-sm-4" style="border-right: 1px solid grey">
-                            <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
+                    {{ with .Params.author }}
+                      {{ if (eq . "Jonas Atlas") }}
+                      <div class="card m-3 p-3">
+                        <div class="row">
+                            <div class="col-sm-4" style="border-right: 1px solid grey">
+                                <img src="/img/jonasatlas.png" class="" style="max-width: 100%">
+                            </div>
+                            <div class="col-sm-8">
+                                <h3>Jonas Atlas | <span class="muted small">Contributor</span></h3>
+                                <p>Jonas Atlas is a Belgian scholar of religion who writes and lectures on religion, politics and mysticism.</p>
+                                <p>You can find him on online here: <a target="_BLANK" href="https://jonasatlas.net/about/">jonasatlas.net</a></p>
+                            </div>
                         </div>
-                        <div class="col-sm-8">
-                            <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
-                            <p>Luke is the founder and director of the OCRS, and has a First Class Honours Degree in Humanities from the Open University. He lives in Somerset with his wife, Rosie.</p>
-                            <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
+                      </div>
+                      {{ else }}
+                      <div class="card m-3 p-3">
+                        <div class="row">
+                            <div class="col-sm-4" style="border-right: 1px solid grey">
+                                <img src="/img/luke-profile.jpg" class="rounded-circle" style="max-width: 100%">
+                            </div>
+                            <div class="col-sm-8">
+                                <h3>Luke Burns | <span class="muted small">Director, OCRS</span></h3>
+                                <p>Luke is the founder and director of the OCRS, and has a First Class Honours Degree in Humanities from the Open University. He lives in Somerset with his wife, Rosie.</p>
+                                <p>You can find him on Twitter here: <a target="_BLANK" href="https://twitter.com/lbburns13">@lbburns13</a></p>
+                            </div>
                         </div>
-                    </div>
-                    </div>
+                      </div>
+                      {{ end }}
+                    {{ end }}
+                    
+                    
                     {{ template "_internal/disqus.html" . }}
                   </article>
                 </div>
