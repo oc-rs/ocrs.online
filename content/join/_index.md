@@ -1070,8 +1070,8 @@ $('.ml-subscribe-form-13001092 .row-form').hide();
 }
 </script>
 
-  
-      <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v2d8fb22bb5b3677f161552cd9e774127" type="text/javascript"></script>
-        <script>
-            fetch("https://assets.mailerlite.com/jsonp/860226/forms/115150710582019364/takel")
-        </script>
+
+<script src="https://groot.mailerlite.com/js/w/webforms.min.js?v2d8fb22bb5b3677f161552cd9e774127" type="text/javascript"></script>
+<script>
+fetch("https://assets.mailerlite.com/jsonp/860226/forms/115150710582019364/takel")
+</script>
