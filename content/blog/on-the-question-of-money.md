@@ -9,6 +9,7 @@ author: Luke Burns
 description: "The OCRS has always been a project that I worked on for the sheer joy of it - and that has benefits and problems."
 
 image: abstract-1280.jpg
+draft: true
 
 ---
 
