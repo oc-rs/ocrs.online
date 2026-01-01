@@ -1,90 +1,105 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    {{ partial "head.html" . }}
-    {{"<!-- " | safeHTML }}
-    {{"Hi there! What are you doing here? Did you know you're like, 70% water? That's weird, right?" | safeHTML }}
-    {{"" | safeHTML }}
-    {{"Anyway, hope you like the site; it was written using Bootstrap, Hugo, and some hardcore Googling :)" | safeHTML }}
-    {{"-->" | safeHTML }}
-  </head>
+<!DOCTYPE html>
 
-  <body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Online Centre for Religious Studies - Closed</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+```
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        background-color: #f8f9fa;
+    }
+    
+    header {
+        background-color: #921515;
+        color: white;
+        padding: 1.5rem 2rem;
+    }
+    
+    .logo {
+        font-size: 1.5rem;
+        font-weight: bold;
+        letter-spacing: 2px;
+    }
+    
+    .container {
+        max-width: 700px;
+        margin: 0 auto;
+        padding: 4rem 2rem;
+    }
+    
+    h1 {
+        font-size: 2rem;
+        color: #921515;
+        margin-bottom: 2rem;
+    }
+    
+    .message {
+        background-color: white;
+        padding: 2rem;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        border-radius: 4px;
+        border-left: 4px solid #921515;
+    }
+    
+    .message p {
+        color: #555;
+        margin-bottom: 1rem;
+        line-height: 1.8;
+    }
+    
+    .message p:last-child {
+        margin-bottom: 0;
+    }
+    
+    footer {
+        background-color: #921515;
+        color: white;
+        padding: 2rem;
+        text-align: center;
+        margin-top: 4rem;
+    }
+    
+    footer p {
+        margin: 0.5rem 0;
+        color: #ecf0f1;
+    }
+</style>
+```
+
+</head>
+<body>
     <header>
-      {{ partial "header.html" . }}
+        <div class="logo">OCRS</div>
     </header>
 
-    <main role="main">
-
-      <div class="carousel slide">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img class="first-slide" src="img/mountain.jpeg" alt="mountain building">
-            <div class="container">
-              <div class="carousel-caption text-left">
-                <h1>The Online Centre for Religious Studies</h1>
-                <p>online | open | accessible</p>
-                <p><a class="btn btn-lg btn-ocrs" href="https://ocrs.online/join/" role="button">Sign up today</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="text-center pt-3 pb-1 mb-4" style="background-color:black; color:white">
-        <p>The OCRS will be closing with effect from 31 Dec 2025 - <a href="https://ocrs.online/2025/09/02/the-end/">read more here</a>.</p>
+```
+<div class="container">
+    <h1>The OCRS Has Now Closed</h1>
+    
+    <div class="message">
+        <p><strong>Effective 31 December 2025</strong></p>
+        
+        <p>After nearly a decade of promoting and facilitating the academic study of religion, the Online Centre for Religious Studies has closed its doors.</p>
+        
+        <p>Thank you to everyone who has been part of this journey since 2016.</p>
     </div>
+</div>
 
-      <div class="container marketing">
+<footer>
+    <p>© 2016-2025 The Online Centre for Religious Studies (OCRS)</p>
+</footer>
+```
 
-        <div class="row">
-          
-          <div class="col-lg-4">
-            <img class="rounded-circle" style="object-fit: cover;" src="/img/logo-2018-illustrated-notext.jpg" alt="illustrated mountain" width="140" height="140">
-            <h2>About the OCRS</h2>
-            <p>Established in 2016, the Online Centre for Religious Studies aims to promote and facilitate the academic study of religion for a wide and diverse audience.</p>
-            <p><a class="btn btn-ocrs" href="about" role="button">Find out more &raquo;</a></p>
-          </div>
-
-          <div class="col-lg-4">
-            <img class="rounded-circle" style="object-fit: cover;" src="/img/wall_640.jpg" alt="men at wailing wall" width="140" height="140">
-            <h2>Study religion online</h2>
-            <p>Our courses will take you from the basics of what a religion is (or isn't!), right through to a detailed exploration of the key faiths alive today.</p>
-            <p><a class="btn btn-ocrs" href="https://ocrs.thinkific.com/" role="button">Find out more &raquo;</a></p>
-          </div>
-
-          <div class="col-lg-4">
-            <img class="rounded-circle" style="object-fit: cover;" src="/img/ganesha-640.jpeg" alt="ganesha carving" width="140" height="140">
-            <h2>Free resources</h2>
-            <p>Download free digital resources for personal use, or to assist in the classroom.</p>
-            <p><a class="btn btn-ocrs" href="resources" role="button">Find out more &raquo;</a></p>
-          </div>
-        </div>
-
-        {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
-        <div class="row newsblock">
-            <div class="col-md-7">
-                <a class="newslink" href="{{ .Permalink }}"><h2>{{ .Params.blogtitle }}</h2></a>
-                <p><em>{{ .Date.Format "2 January 2006" }} | {{ .Params.author }}</em></p>
-                <p>{{ .Summary }}</p>
-            </div>
-            <div class="col-md-5">
-                <a class="newslink" href="{{ .Permalink }}"><img class="featurette-image img-fluid mx-auto" src="/img/{{ .Params.image }}"></a>
-            </div>
-        </div>
-        {{ end }}
-
-        <div class="row newsblock">
-          <a class="newslink" href="/blog">Looking for more posts? Click here!</a>
-          </div>
-      </div>
-
-      <footer class="container-fluid">
-        {{ partial "footer.html" . }}
-      </footer>
-    </main>
-
-    {{ partial "scripts.html" }}
-
-  </body>
+</body>
 </html>
